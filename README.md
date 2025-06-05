@@ -2,9 +2,19 @@
 
 #### :star: If you find this repo useful, please star it!!!
 
+## Table of Contents <!-- omit in toc -->
+
+- [Continuous](#continuous)
+- [Discrete](#discrete)
+- [Hybrid](#hybrid)
+
 ## Visual Tokenizers
 
 ### Continuous
+
++ [SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation](https://arxiv.org/pdf/2404.14396) (Apr 22, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.14396)
+  [![Star](https://img.shields.io/github/stars/AILab-CVC/SEED-X.svg?style=social&label=Star)](https://github.com/AILab-CVC/SEED-X)
 
 + [SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis](https://arxiv.org/pdf/2307.01952) (Jul 4, 2023. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.01952)
@@ -36,6 +46,10 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.06525)
   [![Star](https://img.shields.io/github/stars/FoundationVision/LlamaGen.svg?style=social&label=Star)](https://github.com/FoundationVision/LlamaGen)
 
++ [Finite Scalar Quantization: VQ-VAE Made Simple](https://arxiv.org/pdf/2309.15505) (Sep 27, 2023. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.15505)
+  [![Star](https://img.shields.io/github/stars/lucidrains/vector-quantize-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/vector-quantize-pytorch)
+
 + [Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation](https://arxiv.org/pdf/2310.05737) (Oct 9, 2023. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05737)
   [![Star](https://img.shields.io/github/stars/lucidrains/magvit2-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/magvit2-pytorch)
@@ -43,6 +57,10 @@
 + [Autoregressive Image Generation using Residual Quantization](https://arxiv.org/pdf/2203.01941) (Mar 3, 2022. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.01941)
   [![Star](https://img.shields.io/github/stars/kakaobrain/rq-vae-transformer.svg?style=social&label=Star)](https://github.com/kakaobrain/rq-vae-transformer)
+
++ [Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092) (Feb 24, 2021. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2102.12092)
+  [![Star](https://img.shields.io/github/stars/openai/DALL-E.svg?style=social&label=Star)](https://github.com/openai/DALL-E)
 
 + [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/pdf/2012.09841) (Dec 17, 2020. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2012.09841)
