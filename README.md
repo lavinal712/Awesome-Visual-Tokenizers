@@ -81,6 +81,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.04423)
   [![Star](https://img.shields.io/github/stars/FoundationVision/UniTok.svg?style=social&label=Star)](https://github.com/FoundationVision/UniTok)
 
++ [TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation](https://arxiv.org/pdf/2412.03069) (Dec 4, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03069)
+  [![Star](https://img.shields.io/github/stars/ByteFlow-AI/TokenFlow.svg?style=social&label=Star)](https://github.com/ByteFlow-AI/TokenFlow)
+
 + [Scalable Image Tokenization with Index Backpropagation Quantization](https://arxiv.org/pdf/2412.02692) (Dec 3, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02692)
   [![Star](https://img.shields.io/github/stars/TencentARC/SEED-Voken.svg?style=social&label=Star)](https://github.com/TencentARC/SEED-Voken)
@@ -155,10 +159,6 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [VidTok: A Versatile and Open-Source Video Tokenizer](https://arxiv.org/pdf/2412.13061) (Dec 17, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.13061)
   [![Star](https://img.shields.io/github/stars/microsoft/vidtok.svg?style=social&label=Star)](https://github.com/microsoft/vidtok)
-
-+ [TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation](https://arxiv.org/pdf/2412.03069) (Dec 4, 2024. arXiv)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03069)
-  [![Star](https://img.shields.io/github/stars/ByteFlow-AI/TokenFlow.svg?style=social&label=Star)](https://github.com/ByteFlow-AI/TokenFlow)
 
 + [HART: Efficient Visual Generation with Hybrid Autoregressive Transformer](https://arxiv.org/pdf/2410.10812) (Oct 14, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10812)
