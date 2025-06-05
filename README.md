@@ -1,5 +1,9 @@
 # Awesome-Visual-Tokenizers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
 
+#### :high_brightness: This project is still on-going, pull requests are welcomed!!
+
+If you have any suggestions (missing papers, new papers, or typos), please feel free to edit and pull a request. Just letting us know the title of papers can also be a great contribution to us. You can do this by open issue or contact us directly via email.
+
 #### :star: If you find this repo useful, please star it!!!
 
 ## Table of Contents <!-- omit in toc -->
