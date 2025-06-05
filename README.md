@@ -16,6 +16,49 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 ### Continuous
 
++ [MAGI-1: Autoregressive Video Generation at Scale](https://arxiv.org/pdf/2505.13211) (May 19, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.13211)
+  [![Star](https://img.shields.io/github/stars/SandAI-org/MAGI-1.svg?style=social&label=Star)](https://github.com/SandAI-org/MAGI-1)
+
++ [Wan: Open and Advanced Large-Scale Video Generative Models](https://arxiv.org/pdf/2503.20314) (Mar 26, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.20314)
+  [![Star](https://img.shields.io/github/stars/Wan-Video/Wan2.1.svg?style=social&label=Star)](https://github.com/Wan-Video/Wan2.1)
+
++ [Open-Sora 2.0: Training a Commercial-Level Video Generation Model in $200k](https://arxiv.org/pdf/2503.09642) (Mar 12, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.09642)
+  [![Star](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Star)](https://github.com/hpcaitech/Open-Sora)
+
++ [LTX-Video: Realtime Video Latent Diffusion](https://arxiv.org/pdf/2501.00103) (Dec, 30, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.00103)
+  [![Star](https://img.shields.io/github/stars/Lightricks/LTX-Video.svg?style=social&label=Star)](https://github.com/Lightricks/LTX-Video)
+
++ [Open-Sora: Democratizing Efficient Video Production for All](https://arxiv.org/pdf/2412.20404) (Dec 29, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.20404)
+  [![Star](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Star)](https://github.com/hpcaitech/Open-Sora)
+
++ [HunyuanVideo: A Systematic Framework For Large Video Generative Models](https://arxiv.org/pdf/2412.03603) (Dec 3, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03603)
+  [![Star](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo.svg?style=social&label=Star)](https://github.com/Tencent-Hunyuan/HunyuanVideo)
+
++ [REDUCIO! Generating 1024 $\times$ 1024 Video within 16 Seconds using Extremely Compressed Motion Latents](https://arxiv.org/pdf/2411.13552) (Nov 20, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.13552)
+  [![Star](https://img.shields.io/github/stars/microsoft/Reducio-VAE.svg?style=social&label=Star)](https://github.com/microsoft/Reducio-VAE)
+
++ [Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models](https://arxiv.org/pdf/2410.10733) (Oct 14, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10733)
+  [![Star](https://img.shields.io/github/stars/mit-han-lab/efficientvit.svg?style=social&label=Star)](https://github.com/mit-han-lab/efficientvit)
+
++ [CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer](https://arxiv.org/pdf/2408.06072) (Aug 12, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.06072)
+  [![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star)](https://github.com/THUDM/CogVideo)
+
++ [FLUX](https://bfl.ai/announcements/24-08-01-bfl) (Aug 1, 2024. BFL)
+  [![Star](https://img.shields.io/github/stars/black-forest-labs/flux.svg?style=social&label=Star)](https://github.com/black-forest-labs/flux)
+
++ [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/pdf/2403.03206) (Mar 5, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.03206)
+  [![Star](https://img.shields.io/github/stars/Stability-AI/sd3.5.svg?style=social&label=Star)](https://github.com/Stability-AI/sd3.5)
+
 + [SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation](https://arxiv.org/pdf/2404.14396) (Apr 22, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.14396)
   [![Star](https://img.shields.io/github/stars/AILab-CVC/SEED-X.svg?style=social&label=Star)](https://github.com/AILab-CVC/SEED-X)
@@ -108,6 +151,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Cosmos World Foundation Model Platform for Physical AI](https://arxiv.org/pdf/2501.03575) (Jan 7, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.03575)
   [![Star](https://img.shields.io/github/stars/NVIDIA/Cosmos-Tokenizer.svg?style=social&label=Star)](https://github.com/NVIDIA/Cosmos-Tokenizer)
+
++ [VidTok: A Versatile and Open-Source Video Tokenizer](https://arxiv.org/pdf/2412.13061) (Dec 17, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.13061)
+  [![Star](https://img.shields.io/github/stars/microsoft/vidtok.svg?style=social&label=Star)](https://github.com/microsoft/vidtok)
 
 + [TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation](https://arxiv.org/pdf/2412.03069) (Dec 4, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03069)
