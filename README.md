@@ -42,25 +42,45 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02692)
   [![Star](https://img.shields.io/github/stars/TencentARC/SEED-Voken.svg?style=social&label=Star)](https://github.com/TencentARC/SEED-Voken)
 
++ [Addressing Representation Collapse in Vector Quantized Models with One Linear Layer](https://arxiv.org/pdf/2411.02038) (Nov 4, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.02038)
+  [![Star](https://img.shields.io/github/stars/youngsheen/SimVQ.svg?style=social&label=Star)](https://github.com/youngsheen/SimVQ)
+
++ [MaskBit: Embedding-free Image Generation via Bit Tokens](https://arxiv.org/pdf/2409.16211) (Sep 24, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.16211)
+  [![Star](https://img.shields.io/github/stars/markweberdev/maskbit.svg?style=social&label=Star)](https://github.com/markweberdev/maskbit)
+
 + [Open-MAGVIT2: An Open-Source Project Toward Democratizing Auto-regressive Visual Generation](https://arxiv.org/pdf/2409.04410) (Sep 6, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.04410)
   [![Star](https://img.shields.io/github/stars/TencentARC/SEED-Voken.svg?style=social&label=Star)](https://github.com/TencentARC/SEED-Voken)
+
++ [Image and Video Tokenization with Binary Spherical Quantization](https://arxiv.org/pdf/2406.07548) (Jun 11, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.07548)
+  [![Star](https://img.shields.io/github/stars/zhaoyue-zephyrus/bsq-vit.svg?style=social&label=Star)](https://github.com/zhaoyue-zephyrus/bsq-vit)
 
 + [Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation](https://arxiv.org/pdf/2406.06525) (Jun 10, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.06525)
   [![Star](https://img.shields.io/github/stars/FoundationVision/LlamaGen.svg?style=social&label=Star)](https://github.com/FoundationVision/LlamaGen)
 
-+ [Finite Scalar Quantization: VQ-VAE Made Simple](https://arxiv.org/pdf/2309.15505) (Sep 27, 2023. arXiv)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.15505)
-  [![Star](https://img.shields.io/github/stars/lucidrains/vector-quantize-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/vector-quantize-pytorch)
-
 + [Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation](https://arxiv.org/pdf/2310.05737) (Oct 9, 2023. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05737)
   [![Star](https://img.shields.io/github/stars/lucidrains/magvit2-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/magvit2-pytorch)
 
++ [Finite Scalar Quantization: VQ-VAE Made Simple](https://arxiv.org/pdf/2309.15505) (Sep 27, 2023. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.15505)
+  [![Star](https://img.shields.io/github/stars/lucidrains/vector-quantize-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/vector-quantize-pytorch)
+
++ [Planting a SEED of Vision in Large Language Model](https://arxiv.org/pdf/2307.08041) (Jul 16, 2023. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.08041)
+  [![Star](https://img.shields.io/github/stars/AILab-CVC/SEED.svg?style=social&label=Star)](https://github.com/AILab-CVC/SEED)
+
 + [Autoregressive Image Generation using Residual Quantization](https://arxiv.org/pdf/2203.01941) (Mar 3, 2022. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.01941)
   [![Star](https://img.shields.io/github/stars/kakaobrain/rq-vae-transformer.svg?style=social&label=Star)](https://github.com/kakaobrain/rq-vae-transformer)
+
++ [Vector-quantized Image Modeling with Improved VQGAN](https://arxiv.org/pdf/2110.04627) (Oct 9, 2021. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.04627)
+  [![Star](https://img.shields.io/github/stars/thuanz123/enhancing-transformers.svg?style=social&label=Star)](https://github.com/thuanz123/enhancing-transformers)
 
 + [Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092) (Feb 24, 2021. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2102.12092)
