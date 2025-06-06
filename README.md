@@ -90,6 +90,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.11838)
   [![Star](https://img.shields.io/github/stars/LTH14/mar.svg?style=social&label=Star)](https://github.com/LTH14/mar)
 
++ [CV-VAE: A Compatible Video VAE for Latent Generative Video Models](https://arxiv.org/pdf/2405.20279) (May 30, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20279)
+  [![Star](https://img.shields.io/github/stars/AILab-CVC/CV-VAE.svg?style=social&label=Star)](https://github.com/AILab-CVC/CV-VAE)
+
 + [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/pdf/2403.03206) (Mar 5, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.03206)
   [![Star](https://img.shields.io/github/stars/Stability-AI/sd3.5.svg?style=social&label=Star)](https://github.com/Stability-AI/sd3.5)
@@ -105,6 +109,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752) (Dec 20, 2021. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.10752)
   [![Star](https://img.shields.io/github/stars/CompVis/latent-diffusion.svg?style=social&label=Star)](https://github.com/CompVis/latent-diffusion)
+
++ [Simple and Effective VAE Training with Calibrated Decoders](https://arxiv.org/pdf/2006.13202) (Jun 23, 2020. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2006.13202)
+  [![Star](https://img.shields.io/github/stars/orybkin/sigma-vae-pytorch.svg?style=social&label=Star)](https://github.com/orybkin/sigma-vae-pytorch)
 
 + [$\beta$-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/pdf?id=Sy2fzU9gl) (Feb 6, 2017. OpenReview)
   [![OpenReview](https://img.shields.io/badge/OpenReview-b31b1b.svg)](https://openreview.net/forum?id=Sy2fzU9gl)
@@ -144,6 +152,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02692)
   [![Star](https://img.shields.io/github/stars/TencentARC/SEED-Voken.svg?style=social&label=Star)](https://github.com/TencentARC/SEED-Voken)
 
++ [Factorized Visual Tokenization and Generation](https://arxiv.org/pdf/2411.16681) (Nov 25, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.16681)
+  [![Star](https://img.shields.io/github/stars/showlab/FQGAN.svg?style=social&label=Star)](https://github.com/showlab/FQGAN)
+
 + [Addressing Representation Collapse in Vector Quantized Models with One Linear Layer](https://arxiv.org/pdf/2411.02038) (Nov 4, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.02038)
   [![Star](https://img.shields.io/github/stars/youngsheen/SimVQ.svg?style=social&label=Star)](https://github.com/youngsheen/SimVQ)
@@ -180,9 +192,21 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.15505)
   [![Star](https://img.shields.io/github/stars/lucidrains/vector-quantize-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/vector-quantize-pytorch)
 
++ [Online Clustered Codebook](https://arxiv.org/pdf/2307.15139) (Jul 27, 2023. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.15139)
+  [![Star](https://img.shields.io/github/stars/lyndonzheng/CVQ-VAE.svg?style=social&label=Star)](https://github.com/lyndonzheng/CVQ-VAE)
+
 + [Planting a SEED of Vision in Large Language Model](https://arxiv.org/pdf/2307.08041) (Jul 16, 2023. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.08041)
   [![Star](https://img.shields.io/github/stars/AILab-CVC/SEED.svg?style=social&label=Star)](https://github.com/AILab-CVC/SEED)
+
++ [MoVQ: Modulating Quantized Vectors for High-Fidelity Image Generation](https://arxiv.org/pdf/2209.09002) (Sep 19, 2022. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.09002)
+  [![Star](https://img.shields.io/github/stars/ai-forever/MoVQGAN.svg?style=social&label=Star)](https://github.com/ai-forever/MoVQGAN)
+
++ [SQ-VAE: Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization](https://arxiv.org/pdf/2205.07547) (May 16, 2022. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.07547)
+  [![Star](https://img.shields.io/github/stars/sony/sqvae.svg?style=social&label=Star)](https://github.com/sony/sqvae)
 
 + [Autoregressive Image Generation using Residual Quantization](https://arxiv.org/pdf/2203.01941) (Mar 3, 2022. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.01941)
