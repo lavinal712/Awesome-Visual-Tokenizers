@@ -1,5 +1,7 @@
 # Awesome-Visual-Tokenizers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
 
+This is a repository for organizing papers, codes and other resources related to visual tokenizers.
+
 #### :high_brightness: This project is still on-going, pull requests are welcomed!!
 
 If you have any suggestions (missing papers, new papers, or typos), please feel free to edit and pull a request. Just letting us know the title of papers can also be a great contribution to us. You can do this by open issue or contact us directly via email.
@@ -110,6 +112,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.10752)
   [![Star](https://img.shields.io/github/stars/CompVis/latent-diffusion.svg?style=social&label=Star)](https://github.com/CompVis/latent-diffusion)
 
++ [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/pdf/2111.06377) (Nov 11, 2021. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.06377)
+  [![Star](https://img.shields.io/github/stars/facebookresearch/mae.svg?style=social&label=Star)](https://github.com/facebookresearch/mae)
+
 + [Simple and Effective VAE Training with Calibrated Decoders](https://arxiv.org/pdf/2006.13202) (Jun 23, 2020. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2006.13202)
   [![Star](https://img.shields.io/github/stars/orybkin/sigma-vae-pytorch.svg?style=social&label=Star)](https://github.com/orybkin/sigma-vae-pytorch)
@@ -156,6 +162,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.16681)
   [![Star](https://img.shields.io/github/stars/showlab/FQGAN.svg?style=social&label=Star)](https://github.com/showlab/FQGAN)
 
++ [Image Understanding Makes for A Good Tokenizer for Image Generation](https://arxiv.org/pdf/2411.04406) (Nov 7, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.04406)
+  [![Star](https://img.shields.io/github/stars/magic-research/vector_quantization.svg?style=social&label=Star)](https://github.com/magic-research/vector_quantization)
+
 + [Addressing Representation Collapse in Vector Quantized Models with One Linear Layer](https://arxiv.org/pdf/2411.02038) (Nov 4, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.02038)
   [![Star](https://img.shields.io/github/stars/youngsheen/SimVQ.svg?style=social&label=Star)](https://github.com/youngsheen/SimVQ)
@@ -164,6 +174,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.16211)
   [![Star](https://img.shields.io/github/stars/markweberdev/maskbit.svg?style=social&label=Star)](https://github.com/markweberdev/maskbit)
 
++ [VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation](https://arxiv.org/pdf/2409.04429) (Sep 6, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.04429)
+  [![Star](https://img.shields.io/github/stars/mit-han-lab/vila-u.svg?style=social&label=Star)](https://github.com/mit-han-lab/vila-u)
+
 + [Open-MAGVIT2: An Open-Source Project Toward Democratizing Auto-regressive Visual Generation](https://arxiv.org/pdf/2409.04410) (Sep 6, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.04410)
   [![Star](https://img.shields.io/github/stars/TencentARC/SEED-Voken.svg?style=social&label=Star)](https://github.com/TencentARC/SEED-Voken)
@@ -171,6 +185,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Show-o: One Single Transformer to Unify Multimodal Understanding and Generation](https://arxiv.org/pdf/2408.12528) (Aug 22, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.12528)
   [![Star](https://img.shields.io/github/stars/showlab/Show-o.svg?style=social&label=Star)](https://github.com/showlab/Show-o)
+
++ [Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%](https://arxiv.org/pdf/2406.11837) (Jun 17, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.11837)
+  [![Star](https://img.shields.io/github/stars/zh460045050/VQGAN-LC.svg?style=social&label=Star)](https://github.com/zh460045050/VQGAN-LC)
 
 + [Image and Video Tokenization with Binary Spherical Quantization](https://arxiv.org/pdf/2406.07548) (Jun 11, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.07548)
@@ -203,6 +221,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [MoVQ: Modulating Quantized Vectors for High-Fidelity Image Generation](https://arxiv.org/pdf/2209.09002) (Sep 19, 2022. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.09002)
   [![Star](https://img.shields.io/github/stars/ai-forever/MoVQGAN.svg?style=social&label=Star)](https://github.com/ai-forever/MoVQGAN)
+
++ [BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers](https://arxiv.org/pdf/2208.06366) (Aug 12, 2022. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2208.06366)
+  [![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm)
 
 + [SQ-VAE: Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization](https://arxiv.org/pdf/2205.07547) (May 16, 2022. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.07547)
@@ -250,6 +272,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [HART: Efficient Visual Generation with Hybrid Autoregressive Transformer](https://arxiv.org/pdf/2410.10812) (Oct 14, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10812)
   [![Star](https://img.shields.io/github/stars/mit-han-lab/hart.svg?style=social&label=Star)](https://github.com/mit-han-lab/hart)
+
++ [OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation](https://arxiv.org/pdf/2406.09399) (Jun 13, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.09399)
+  [![Star](https://img.shields.io/github/stars/FoundationVision/OmniTokenizer.svg?style=social&label=Star)](https://github.com/FoundationVision/OmniTokenizer)
 
 ## Acknowledgements
 
