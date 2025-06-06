@@ -20,6 +20,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.13211)
   [![Star](https://img.shields.io/github/stars/SandAI-org/MAGI-1.svg?style=social&label=Star)](https://github.com/SandAI-org/MAGI-1)
 
++ [REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers](https://arxiv.org/pdf/2504.10483) (Apr 14, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.10483)
+  [![Star](https://img.shields.io/github/stars/End2End-Diffusion/REPA-E.svg?style=social&label=Star)](https://github.com/End2End-Diffusion/REPA-E)
+
 + [Wan: Open and Advanced Large-Scale Video Generative Models](https://arxiv.org/pdf/2503.20314) (Mar 26, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.20314)
   [![Star](https://img.shields.io/github/stars/Wan-Video/Wan2.1.svg?style=social&label=Star)](https://github.com/Wan-Video/Wan2.1)
@@ -28,6 +32,18 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.09642)
   [![Star](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Star)](https://github.com/hpcaitech/Open-Sora)
 
++ [EQ-VAE: Equivariance Regularized Latent Space for Improved Generative Image Modeling](https://arxiv.org/pdf/2502.09509) (Feb 13, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.09509)
+  [![Star](https://img.shields.io/github/stars/zelaki/eqvae.svg?style=social&label=Star)](https://github.com/zelaki/eqvae)
+
++ [Diffusion Autoencoders are Scalable Image Tokenizers](https://arxiv.org/pdf/2501.18593) (Jan 30, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.18593)
+  [![Star](https://img.shields.io/github/stars/yinboc/dito.svg?style=social&label=Star)](https://github.com/yinboc/dito)
+
++ [Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models](https://arxiv.org/pdf/2501.01423) (Jan 2, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.01423)
+  [![Star](https://img.shields.io/github/stars/hustvl/LightningDiT.svg?style=social&label=Star)](https://github.com/hustvl/LightningDiT)
+
 + [LTX-Video: Realtime Video Latent Diffusion](https://arxiv.org/pdf/2501.00103) (Dec, 30, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.00103)
   [![Star](https://img.shields.io/github/stars/Lightricks/LTX-Video.svg?style=social&label=Star)](https://github.com/Lightricks/LTX-Video)
@@ -35,6 +51,14 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Open-Sora: Democratizing Efficient Video Production for All](https://arxiv.org/pdf/2412.20404) (Dec 29, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.20404)
   [![Star](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Star)](https://github.com/hpcaitech/Open-Sora)
+
++ [Large Motion Video Autoencoding with Cross-modal Video VAE](https://arxiv.org/pdf/2412.17805) (Dec 23, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.17805)
+  [![Star](https://img.shields.io/github/stars/VideoVerses/VideoVAEPlus.svg?style=social&label=Star)](https://github.com/VideoVerses/VideoVAEPlus)
+
++ [Multimodal Latent Language Modeling with Next-Token Diffusion](https://arxiv.org/pdf/2412.08635) (Dec 11, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.08635)
+  [![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm)
 
 + [HunyuanVideo: A Systematic Framework For Large Video Generative Models](https://arxiv.org/pdf/2412.03603) (Dec 3, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03603)
@@ -48,12 +72,23 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10733)
   [![Star](https://img.shields.io/github/stars/mit-han-lab/efficientvit.svg?style=social&label=Star)](https://github.com/mit-han-lab/efficientvit)
 
++ [Epsilon-VAE: Denoising as Visual Decoding](https://arxiv.org/pdf/2410.04081) (Oct 5, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.04081)
+
++ [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://arxiv.org/pdf/2408.11039) (Aug 20, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.11039)
+
 + [CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer](https://arxiv.org/pdf/2408.06072) (Aug 12, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.06072)
   [![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star)](https://github.com/THUDM/CogVideo)
 
 + [FLUX](https://bfl.ai/announcements/24-08-01-bfl) (Aug 1, 2024. BFL)
+  [![Blog](https://img.shields.io/badge/Blog-b31b1b.svg)](https://bfl.ai/announcements/24-08-01-bfl)
   [![Star](https://img.shields.io/github/stars/black-forest-labs/flux.svg?style=social&label=Star)](https://github.com/black-forest-labs/flux)
+
++ [Autoregressive Image Generation without Vector Quantization](https://arxiv.org/pdf/2406.11838) (Jun 17, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.11838)
+  [![Star](https://img.shields.io/github/stars/LTH14/mar.svg?style=social&label=Star)](https://github.com/LTH14/mar)
 
 + [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/pdf/2403.03206) (Mar 5, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.03206)
@@ -71,15 +106,35 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.10752)
   [![Star](https://img.shields.io/github/stars/CompVis/latent-diffusion.svg?style=social&label=Star)](https://github.com/CompVis/latent-diffusion)
 
++ [$\beta$-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/pdf?id=Sy2fzU9gl) (Feb 6, 2017. OpenReview)
+  [![OpenReview](https://img.shields.io/badge/OpenReview-b31b1b.svg)](https://openreview.net/forum?id=Sy2fzU9gl)
+  [![Star](https://img.shields.io/github/stars/1Konny/Beta-VAE.svg?style=social&label=Star)](https://github.com/1Konny/Beta-VAE)
+
 + [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114) (Dec 20, 2013. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1312.6114)
   [![Star](https://img.shields.io/github/stars/AntixK/PyTorch-VAE.svg?style=social&label=Star)](https://github.com/AntixK/PyTorch-VAE)
 
 ### Discrete
 
++ [GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation](https://arxiv.org/pdf/2504.08736) (Apr 11, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.08736)
+  [![Star](https://img.shields.io/github/stars/SilentView/GigaTok.svg?style=social&label=Star)](https://github.com/SilentView/GigaTok)
+
 + [UniToken: Harmonizing Multimodal Understanding and Generation through Unified Visual Encoding](https://arxiv.org/pdf/2504.04423) (Apr 6, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.04423)
   [![Star](https://img.shields.io/github/stars/FoundationVision/UniTok.svg?style=social&label=Star)](https://github.com/FoundationVision/UniTok)
+
++ [Flow to the Mode: Mode-Seeking Diffusion Autoencoders for State-of-the-Art Image Tokenization](https://arxiv.org/pdf/2503.11056) (Mar 14, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11056)
+  [![Star](https://img.shields.io/github/stars/kylesargent/FlowMo.svg?style=social&label=Star)](https://github.com/kylesargent/FlowMo)
+
++ [FlexTok: Resampling Images into 1D Token Sequences of Flexible Length](https://arxiv.org/pdf/2502.13967) (Feb 19, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.13967)
+  [![Star](https://img.shields.io/github/stars/apple/ml-flextok.svg?style=social&label=Star)](https://github.com/apple/ml-flextok)
+
++ [QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation](https://arxiv.org/pdf/2502.05178) (Feb 7, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.05178)
+  [![Star](https://img.shields.io/github/stars/NVlabs/QLIP.svg?style=social&label=Star)](https://github.com/NVlabs/QLIP)
 
 + [TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation](https://arxiv.org/pdf/2412.03069) (Dec 4, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03069)
@@ -101,6 +156,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.04410)
   [![Star](https://img.shields.io/github/stars/TencentARC/SEED-Voken.svg?style=social&label=Star)](https://github.com/TencentARC/SEED-Voken)
 
++ [Show-o: One Single Transformer to Unify Multimodal Understanding and Generation](https://arxiv.org/pdf/2408.12528) (Aug 22, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.12528)
+  [![Star](https://img.shields.io/github/stars/showlab/Show-o.svg?style=social&label=Star)](https://github.com/showlab/Show-o)
+
 + [Image and Video Tokenization with Binary Spherical Quantization](https://arxiv.org/pdf/2406.07548) (Jun 11, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.07548)
   [![Star](https://img.shields.io/github/stars/zhaoyue-zephyrus/bsq-vit.svg?style=social&label=Star)](https://github.com/zhaoyue-zephyrus/bsq-vit)
@@ -108,6 +167,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation](https://arxiv.org/pdf/2406.06525) (Jun 10, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.06525)
   [![Star](https://img.shields.io/github/stars/FoundationVision/LlamaGen.svg?style=social&label=Star)](https://github.com/FoundationVision/LlamaGen)
+
++ [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/pdf/2404.02905) (Apr 3, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.02905)
+  [![Star](https://img.shields.io/github/stars/FoundationVision/VAR.svg?style=social&label=Star)](https://github.com/FoundationVision/VAR)
 
 + [Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation](https://arxiv.org/pdf/2310.05737) (Oct 9, 2023. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05737)
