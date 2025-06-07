@@ -161,6 +161,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.04423)
   [![Star](https://img.shields.io/github/stars/FoundationVision/UniTok.svg?style=social&label=Star)](https://github.com/FoundationVision/UniTok)
 
++ [CODA: Repurposing Continuous VAEs for Discrete Tokenization](https://arxiv.org/pdf/2503.17760) (Mar 22, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.17760)
+  [![Star](https://img.shields.io/github/stars/LeapLabTHU/CODA.svg?style=social&label=Star)](https://github.com/LeapLabTHU/CODA)
+
 + [Flow to the Mode: Mode-Seeking Diffusion Autoencoders for State-of-the-Art Image Tokenization](https://arxiv.org/pdf/2503.11056) (Mar 14, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11056)
   [![Star](https://img.shields.io/github/stars/kylesargent/FlowMo.svg?style=social&label=Star)](https://github.com/kylesargent/FlowMo)
@@ -265,9 +269,21 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.08041)
   [![Star](https://img.shields.io/github/stars/AILab-CVC/SEED.svg?style=social&label=Star)](https://github.com/AILab-CVC/SEED)
 
++ [Towards Accurate Image Coding: Improved Autoregressive Image Generation with Dynamic Vector Quantization](https://arxiv.org/pdf/2305.11718) (May 19, 2023. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11718)
+  [![Star](https://img.shields.io/github/stars/CrossmodalGroup/DynamicVectorQuantization.svg?style=social&label=Star)](https://github.com/CrossmodalGroup/DynamicVectorQuantization)
+
++ [Binary Latent Diffusion](https://arxiv.org/pdf/2304.04820) (Apr 10, 2023. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.04820)
+  [![Star](https://img.shields.io/github/stars/ZeWang95/BinaryLatentDiffusion.svg?style=social&label=Star)](https://github.com/ZeWang95/BinaryLatentDiffusion)
+
 + [Muse: Text-To-Image Generation via Masked Generative Transformers](https://arxiv.org/pdf/2301.00704) (Jan 2, 2023. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.00704)
   [![Star](https://img.shields.io/github/stars/huggingface/open-muse.svg?style=social&label=Star)](https://github.com/huggingface/open-muse)
+
++ [MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis](https://arxiv.org/pdf/2211.09117) (Nov 16, 2022. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.09117)
+  [![Star](https://img.shields.io/github/stars/LTH14/mage.svg?style=social&label=Star)](https://github.com/LTH14/mage)
 
 + [MoVQ: Modulating Quantized Vectors for High-Fidelity Image Generation](https://arxiv.org/pdf/2209.09002) (Sep 19, 2022. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.09002)
@@ -277,6 +293,9 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2208.06366)
   [![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm)
 
++ [DiVAE: Photorealistic Images Synthesis with Denoising Diffusion Decoder](https://arxiv.org/pdf/2206.00386) (Jun 1, 2022. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2206.00386)
+
 + [SQ-VAE: Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization](https://arxiv.org/pdf/2205.07547) (May 16, 2022. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.07547)
   [![Star](https://img.shields.io/github/stars/sony/sqvae.svg?style=social&label=Star)](https://github.com/sony/sqvae)
@@ -284,6 +303,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Autoregressive Image Generation using Residual Quantization](https://arxiv.org/pdf/2203.01941) (Mar 3, 2022. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.01941)
   [![Star](https://img.shields.io/github/stars/kakaobrain/rq-vae-transformer.svg?style=social&label=Star)](https://github.com/kakaobrain/rq-vae-transformer)
+
++ [NÜWA-LIP: Language Guided Image Inpainting with Defect-free VQGAN](https://arxiv.org/pdf/2202.05009) (Feb 10, 2022. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2202.05009)
+  [![Star](https://img.shields.io/github/stars/kodenii/NUWA-LIP.svg?style=social&label=Star)](https://github.com/kodenii/NUWA-LIP)
 
 + [MaskGIT: Masked Generative Image Transformer](https://arxiv.org/pdf/2202.04200) (Feb 8, 2022. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2202.04200)
@@ -293,6 +316,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Vector-quantized Image Modeling with Improved VQGAN](https://arxiv.org/pdf/2110.04627) (Oct 9, 2021. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.04627)
   [![Star](https://img.shields.io/github/stars/thuanz123/enhancing-transformers.svg?style=social&label=Star)](https://github.com/thuanz123/enhancing-transformers)
+
++ [CogView: Mastering Text-to-Image Generation via Transformers](https://arxiv.org/pdf/2105.13290) (May 26, 2021. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2105.13290)
+  [![Star](https://img.shields.io/github/stars/THUDM/CogView.svg?style=social&label=Star)](https://github.com/THUDM/CogView)
 
 + [Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092) (Feb 24, 2021. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2102.12092)
