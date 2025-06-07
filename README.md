@@ -30,6 +30,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.20314)
   [![Star](https://img.shields.io/github/stars/Wan-Video/Wan2.1.svg?style=social&label=Star)](https://github.com/Wan-Video/Wan2.1)
 
++ [TULIP: Towards Unified Language-Image Pretraining](https://arxiv.org/pdf/2503.15485) (Mar 19, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.15485)
+  [![Star](https://img.shields.io/github/stars/tulip-berkeley/open_clip.svg?style=social&label=Star)](https://github.com/tulip-berkeley/open_clip)
+
 + [FlowTok: Flowing Seamlessly Across Text and Image Tokens](https://arxiv.org/pdf/2503.10772) (Mar 13, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.10772)
   [![Star](https://img.shields.io/github/stars/bytedance/1d-tokenizer.svg?style=social&label=Star)](https://github.com/bytedance/1d-tokenizer)
@@ -161,6 +165,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11056)
   [![Star](https://img.shields.io/github/stars/kylesargent/FlowMo.svg?style=social&label=Star)](https://github.com/kylesargent/FlowMo)
 
++ [V2Flow: Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation](https://arxiv.org/pdf/2503.07493) (Mar 10, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.07493)
+  [![Star](https://img.shields.io/github/stars/zhangguiwei610/V2Flow.svg?style=social&label=Star)](https://github.com/zhangguiwei610/V2Flow)
+
 + [FlexTok: Resampling Images into 1D Token Sequences of Flexible Length](https://arxiv.org/pdf/2502.13967) (Feb 19, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.13967)
   [![Star](https://img.shields.io/github/stars/apple/ml-flextok.svg?style=social&label=Star)](https://github.com/apple/ml-flextok)
@@ -168,6 +176,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation](https://arxiv.org/pdf/2502.05178) (Feb 7, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.05178)
   [![Star](https://img.shields.io/github/stars/NVlabs/QLIP.svg?style=social&label=Star)](https://github.com/NVlabs/QLIP)
+
++ [One-D-Piece: Image Tokenizer Meets Quality-Controllable Compression](https://arxiv.org/pdf/2501.10064) (Jan 17, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.10064)
+  [![Star](https://img.shields.io/github/stars/turingmotors/One-D-Piece.svg?style=social&label=Star)](https://github.com/turingmotors/One-D-Piece)
 
 + [TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation](https://arxiv.org/pdf/2412.03069) (Dec 4, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03069)
@@ -192,6 +204,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Randomized Autoregressive Visual Generation](https://arxiv.org/pdf/2411.00776) (Nov 1, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.00776)
   [![Star](https://img.shields.io/github/stars/bytedance/1d-tokenizer.svg?style=social&label=Star)](https://github.com/bytedance/1d-tokenizer)
+
++ [Emu3: Next-Token Prediction is All You Need](https://arxiv.org/pdf/2409.18869) (Sep 27, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.18869)
+  [![Star](https://img.shields.io/github/stars/baaivision/Emu3.svg?style=social&label=Star)](https://github.com/baaivision/Emu3)
 
 + [MaskBit: Embedding-free Image Generation via Bit Tokens](https://arxiv.org/pdf/2409.16211) (Sep 24, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.16211)
@@ -229,6 +245,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.02905)
   [![Star](https://img.shields.io/github/stars/FoundationVision/VAR.svg?style=social&label=Star)](https://github.com/FoundationVision/VAR)
 
++ [Sequential Modeling Enables Scalable Learning for Large Vision Models](https://arxiv.org/pdf/2312.00785) (Dec 1, 2023. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.00785)
+  [![Star](https://img.shields.io/github/stars/ytongbai/LVM.svg?style=social&label=Star)](https://github.com/ytongbai/LVM)
+
 + [Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation](https://arxiv.org/pdf/2310.05737) (Oct 9, 2023. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05737)
   [![Star](https://img.shields.io/github/stars/lucidrains/magvit2-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/magvit2-pytorch)
@@ -245,6 +265,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.08041)
   [![Star](https://img.shields.io/github/stars/AILab-CVC/SEED.svg?style=social&label=Star)](https://github.com/AILab-CVC/SEED)
 
++ [Muse: Text-To-Image Generation via Masked Generative Transformers](https://arxiv.org/pdf/2301.00704) (Jan 2, 2023. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.00704)
+  [![Star](https://img.shields.io/github/stars/huggingface/open-muse.svg?style=social&label=Star)](https://github.com/huggingface/open-muse)
+
 + [MoVQ: Modulating Quantized Vectors for High-Fidelity Image Generation](https://arxiv.org/pdf/2209.09002) (Sep 19, 2022. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.09002)
   [![Star](https://img.shields.io/github/stars/ai-forever/MoVQGAN.svg?style=social&label=Star)](https://github.com/ai-forever/MoVQGAN)
@@ -260,6 +284,11 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Autoregressive Image Generation using Residual Quantization](https://arxiv.org/pdf/2203.01941) (Mar 3, 2022. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.01941)
   [![Star](https://img.shields.io/github/stars/kakaobrain/rq-vae-transformer.svg?style=social&label=Star)](https://github.com/kakaobrain/rq-vae-transformer)
+
++ [MaskGIT: Masked Generative Image Transformer](https://arxiv.org/pdf/2202.04200) (Feb 8, 2022. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2202.04200)
+  [![Star](https://img.shields.io/github/stars/google-research/maskgit.svg?style=social&label=Star)](https://github.com/google-research/maskgit)
+  [![Star](https://img.shields.io/github/stars/dome272/MaskGIT-pytorch.svg?style=social&label=Star)](https://github.com/dome272/MaskGIT-pytorch)
 
 + [Vector-quantized Image Modeling with Improved VQGAN](https://arxiv.org/pdf/2110.04627) (Oct 9, 2021. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.04627)
