@@ -185,6 +185,9 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.10064)
   [![Star](https://img.shields.io/github/stars/turingmotors/One-D-Piece.svg?style=social&label=Star)](https://github.com/turingmotors/One-D-Piece)
 
++ [Efficient Generative Modeling with Residual Vector Quantization-Based Tokens](https://arxiv.org/pdf/2412.10208) (Dec 13, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.10208)
+
 + [TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation](https://arxiv.org/pdf/2412.03069) (Dec 4, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03069)
   [![Star](https://img.shields.io/github/stars/ByteFlow-AI/TokenFlow.svg?style=social&label=Star)](https://github.com/ByteFlow-AI/TokenFlow)
@@ -244,6 +247,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation](https://arxiv.org/pdf/2406.06525) (Jun 10, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.06525)
   [![Star](https://img.shields.io/github/stars/FoundationVision/LlamaGen.svg?style=social&label=Star)](https://github.com/FoundationVision/LlamaGen)
+
++ [LG-VQ: Language-Guided Codebook Learning](https://arxiv.org/pdf/2405.14206) (May 23, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.14206)
+  [![Star](https://img.shields.io/github/stars/GuotaoLiang/LG-VQ.svg?style=social&label=Star)](https://github.com/GuotaoLiang/LG-VQ-language-guided-codebook-learning)
 
 + [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/pdf/2404.02905) (Apr 3, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.02905)
@@ -313,6 +320,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![Star](https://img.shields.io/github/stars/google-research/maskgit.svg?style=social&label=Star)](https://github.com/google-research/maskgit)
   [![Star](https://img.shields.io/github/stars/dome272/MaskGIT-pytorch.svg?style=social&label=Star)](https://github.com/dome272/MaskGIT-pytorch)
 
++ [Vector Quantized Diffusion Model for Text-to-Image Synthesis](https://arxiv.org/pdf/2111.14822) (Nov 29, 2021. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.14822)
+  [![Star](https://img.shields.io/github/stars/microsoft/VQ-Diffusion.svg?style=social&label=Star)](https://github.com/microsoft/VQ-Diffusion)
+
 + [Vector-quantized Image Modeling with Improved VQGAN](https://arxiv.org/pdf/2110.04627) (Oct 9, 2021. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.04627)
   [![Star](https://img.shields.io/github/stars/thuanz123/enhancing-transformers.svg?style=social&label=Star)](https://github.com/thuanz123/enhancing-transformers)
@@ -320,6 +331,14 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [CogView: Mastering Text-to-Image Generation via Transformers](https://arxiv.org/pdf/2105.13290) (May 26, 2021. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2105.13290)
   [![Star](https://img.shields.io/github/stars/THUDM/CogView.svg?style=social&label=Star)](https://github.com/THUDM/CogView)
+
++ [VideoGPT: Video Generation using VQ-VAE and Transformers](https://arxiv.org/pdf/2104.10157) (Apr 20, 2021. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.10157)
+  [![Star](https://img.shields.io/github/stars/wilson1yan/VideoGPT.svg?style=social&label=Star)](https://github.com/wilson1yan/VideoGPT)
+
++ [Predicting Video with VQVAE](https://arxiv.org/pdf/2103.01950) (Mar 2, 2021. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2103.01950)
+  [![Star](https://img.shields.io/github/stars/mattiasxu/Video-VQVAE.svg?style=social&label=Star)](https://github.com/mattiasxu/Video-VQVAE)
 
 + [Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092) (Feb 24, 2021. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2102.12092)
