@@ -2,6 +2,12 @@
 
 This is a repository for organizing papers, codes and other resources related to visual tokenizers.
 
+#### :thinking: What are visual tokenizers?
+
+A visual tokenizer is a mechanism that maps input visual signals (such as images or videos) into a set of compact and structured visual units (tokens), which may be continuous vectors, discrete indices, or a hybrid of both. A core requirement of a visual tokenizer is that the generated visual units must possess sufficient representational capacity to enable high-quality reconstruction of the original visual input through a corresponding decoder or generator.
+
+**Note**: This definition is not intended to represent a universally accepted or formally established definition in the academic community. Readers and users should be aware that different works in the literature may adopt varying definitions or criteria for what constitutes a visual tokenizer.
+
 #### :high_brightness: This project is still on-going, pull requests are welcomed!!
 
 If you have any suggestions (missing papers, new papers, or typos), please feel free to edit and pull a request. Just letting us know the title of papers can also be a great contribution to us. You can do this by open issue or contact us directly via email.
