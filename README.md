@@ -95,6 +95,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03603)
   [![Star](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo.svg?style=social&label=Star)](https://github.com/Tencent-Hunyuan/HunyuanVideo)
 
++ [Open-Sora Plan: Open-Source Large Video Generation Model](https://arxiv.org/pdf/2412.00131) (Nov 28, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.00131)
+  [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Open-Sora-Plan)
+
 + [REDUCIO! Generating 1024 $\times$ 1024 Video within 16 Seconds using Extremely Compressed Motion Latents](https://arxiv.org/pdf/2411.13552) (Nov 20, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.13552)
   [![Star](https://img.shields.io/github/stars/microsoft/Reducio-VAE.svg?style=social&label=Star)](https://github.com/microsoft/Reducio-VAE)
@@ -103,8 +107,16 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10733)
   [![Star](https://img.shields.io/github/stars/mit-han-lab/efficientvit.svg?style=social&label=Star)](https://github.com/mit-han-lab/efficientvit)
 
++ [SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers](https://arxiv.org/pdf/2410.10629) (Oct 14, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10629)
+  [![Star](https://img.shields.io/github/stars/NVlabs/Sana.svg?style=social&label=Star)](https://github.com/NVlabs/Sana)
+
 + [Epsilon-VAE: Denoising as Visual Decoding](https://arxiv.org/pdf/2410.04081) (Oct 5, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.04081)
+
++ [OD-VAE: An Omni-dimensional Video Compressor for Improving Latent Video Diffusion Model](https://arxiv.org/pdf/2409.01199) (Sep 2, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.01199)
+  [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Open-Sora-Plan)
 
 + [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://arxiv.org/pdf/2408.11039) (Aug 20, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.11039)
@@ -124,6 +136,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [CV-VAE: A Compatible Video VAE for Latent Generative Video Models](https://arxiv.org/pdf/2405.20279) (May 30, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20279)
   [![Star](https://img.shields.io/github/stars/AILab-CVC/CV-VAE.svg?style=social&label=Star)](https://github.com/AILab-CVC/CV-VAE)
+
++ [EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture](https://arxiv.org/pdf/2405.18991) (May 29, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.18991)
+  [![Star](https://img.shields.io/github/stars/aigc-apps/EasyAnimate.svg?style=social&label=Star)](https://github.com/aigc-apps/EasyAnimate)
 
 + [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/pdf/2403.03206) (Mar 5, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.03206)
@@ -339,13 +355,17 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [DiVAE: Photorealistic Images Synthesis with Denoising Diffusion Decoder](https://arxiv.org/pdf/2206.00386) (Jun 1, 2022. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2206.00386)
 
-+ [Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors](https://arxiv.org/pdf/2203.13131) (Mar 24, 2022. arXiv)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.13131)
-  [![Star](https://img.shields.io/github/stars/CasualGANPapers/Make-A-Scene.svg?style=social&label=Star)](https://github.com/CasualGANPapers/Make-A-Scene)
-
 + [SQ-VAE: Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization](https://arxiv.org/pdf/2205.07547) (May 16, 2022. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.07547)
   [![Star](https://img.shields.io/github/stars/sony/sqvae.svg?style=social&label=Star)](https://github.com/sony/sqvae)
+
++ [CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers](https://arxiv.org/pdf/2204.14217) (Apr 28, 2022. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.14217)
+  [![Star](https://img.shields.io/github/stars/THUDM/CogView2.svg?style=social&label=Star)](https://github.com/THUDM/CogView2)
+
++ [Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors](https://arxiv.org/pdf/2203.13131) (Mar 24, 2022. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.13131)
+  [![Star](https://img.shields.io/github/stars/CasualGANPapers/Make-A-Scene.svg?style=social&label=Star)](https://github.com/CasualGANPapers/Make-A-Scene)
 
 + [Autoregressive Image Generation using Residual Quantization](https://arxiv.org/pdf/2203.01941) (Mar 3, 2022. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.01941)
