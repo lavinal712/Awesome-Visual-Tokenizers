@@ -48,6 +48,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.09642)
   [![Star](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Star)](https://github.com/hpcaitech/Open-Sora)
 
++ [Improving the Diffusability of Autoencoders](https://arxiv.org/pdf/2502.14831) (Feb 20, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.14831)
+  [![Star](https://img.shields.io/github/stars/snap-research/diffusability.svg?style=social&label=Star)](https://github.com/snap-research/diffusability)
+
 + [EQ-VAE: Equivariance Regularized Latent Space for Improved Generative Image Modeling](https://arxiv.org/pdf/2502.09509) (Feb 13, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.09509)
   [![Star](https://img.shields.io/github/stars/zelaki/eqvae.svg?style=social&label=Star)](https://github.com/zelaki/eqvae)
@@ -59,6 +63,9 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Diffusion Autoencoders are Scalable Image Tokenizers](https://arxiv.org/pdf/2501.18593) (Jan 30, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.18593)
   [![Star](https://img.shields.io/github/stars/yinboc/dito.svg?style=social&label=Star)](https://github.com/yinboc/dito)
+
++ [CAT: Content-Adaptive Image Tokenization](https://arxiv.org/pdf/2501.03120) (Jan 6, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.03120)
 
 + [Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models](https://arxiv.org/pdf/2501.01423) (Jan 2, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.01423)
@@ -167,6 +174,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.04423)
   [![Star](https://img.shields.io/github/stars/FoundationVision/UniTok.svg?style=social&label=Star)](https://github.com/FoundationVision/UniTok)
 
++ [VARGPT-v1.1: Improve Visual Autoregressive Large Unified Model via Iterative Instruction Tuning and Reinforcement Learning](https://arxiv.org/pdf/2504.02949) (Apr 3, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.02949)
+  [![Star](https://img.shields.io/github/stars/VARGPT-family/VARGPT-v1.1.svg?style=social&label=Star)](https://github.com/VARGPT-family/VARGPT-v1.1)
+
 + [CODA: Repurposing Continuous VAEs for Discrete Tokenization](https://arxiv.org/pdf/2503.17760) (Mar 22, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.17760)
   [![Star](https://img.shields.io/github/stars/LeapLabTHU/CODA.svg?style=social&label=Star)](https://github.com/LeapLabTHU/CODA)
@@ -186,6 +197,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation](https://arxiv.org/pdf/2502.05178) (Feb 7, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.05178)
   [![Star](https://img.shields.io/github/stars/NVlabs/QLIP.svg?style=social&label=Star)](https://github.com/NVlabs/QLIP)
+
++ [VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model](https://arxiv.org/pdf/2501.12327) (Jan 21, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.12327)
+  [![Star](https://img.shields.io/github/stars/VARGPT-family/VARGPT.svg?style=social&label=Star)](https://github.com/VARGPT-family/VARGPT)
 
 + [One-D-Piece: Image Tokenizer Meets Quality-Controllable Compression](https://arxiv.org/pdf/2501.10064) (Jan 17, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.10064)
@@ -217,6 +232,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Randomized Autoregressive Visual Generation](https://arxiv.org/pdf/2411.00776) (Nov 1, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.00776)
   [![Star](https://img.shields.io/github/stars/bytedance/1d-tokenizer.svg?style=social&label=Star)](https://github.com/bytedance/1d-tokenizer)
+
++ [LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior](https://arxiv.org/pdf/2410.21264) (Oct 28, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.21264)
+  [![Star](https://img.shields.io/github/stars/hywang66/LARP.svg?style=social&label=Star)](https://github.com/hywang66/LARP)
 
 + [Emu3: Next-Token Prediction is All You Need](https://arxiv.org/pdf/2409.18869) (Sep 27, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.18869)
@@ -258,9 +277,16 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.14206)
   [![Star](https://img.shields.io/github/stars/GuotaoLiang/LG-VQ.svg?style=social&label=Star)](https://github.com/GuotaoLiang/LG-VQ-language-guided-codebook-learning)
 
++ [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://arxiv.org/pdf/2405.09818) (May 16, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09818)
+  [![Star](https://img.shields.io/github/stars/facebookresearch/chameleon.svg?style=social&label=Star)](https://github.com/facebookresearch/chameleon)
+
 + [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/pdf/2404.02905) (Apr 3, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.02905)
   [![Star](https://img.shields.io/github/stars/FoundationVision/VAR.svg?style=social&label=Star)](https://github.com/FoundationVision/VAR)
+
++ [HQ-VAE: Hierarchical Discrete Representation Learning with Variational Bayes](https://arxiv.org/pdf/2401.00365) (Dec 31, 2023. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.00365)
 
 + [Sequential Modeling Enables Scalable Learning for Large Vision Models](https://arxiv.org/pdf/2312.00785) (Dec 1, 2023. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.00785)
@@ -281,6 +307,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Planting a SEED of Vision in Large Language Model](https://arxiv.org/pdf/2307.08041) (Jul 16, 2023. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.08041)
   [![Star](https://img.shields.io/github/stars/AILab-CVC/SEED.svg?style=social&label=Star)](https://github.com/AILab-CVC/SEED)
+
++ [Designing a Better Asymmetric VQGAN for StableDiffusion](https://arxiv.org/pdf/2306.04632) (Jun 7, 2023. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.04632)
+  [![Star](https://img.shields.io/github/stars/buxiangzhiren/Asymmetric_VQGAN.svg?style=social&label=Star)](https://github.com/buxiangzhiren/Asymmetric_VQGAN)
 
 + [Towards Accurate Image Coding: Improved Autoregressive Image Generation with Dynamic Vector Quantization](https://arxiv.org/pdf/2305.11718) (May 19, 2023. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11718)
@@ -308,6 +338,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 + [DiVAE: Photorealistic Images Synthesis with Denoising Diffusion Decoder](https://arxiv.org/pdf/2206.00386) (Jun 1, 2022. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2206.00386)
+
++ [Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors](https://arxiv.org/pdf/2203.13131) (Mar 24, 2022. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.13131)
+  [![Star](https://img.shields.io/github/stars/CasualGANPapers/Make-A-Scene.svg?style=social&label=Star)](https://github.com/CasualGANPapers/Make-A-Scene)
 
 + [SQ-VAE: Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization](https://arxiv.org/pdf/2205.07547) (May 16, 2022. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.07547)
@@ -380,6 +414,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [VidTok: A Versatile and Open-Source Video Tokenizer](https://arxiv.org/pdf/2412.13061) (Dec 17, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.13061)
   [![Star](https://img.shields.io/github/stars/microsoft/vidtok.svg?style=social&label=Star)](https://github.com/microsoft/vidtok)
+
++ [Adaptive Length Image Tokenization via Recurrent Allocation](https://arxiv.org/pdf/2411.02393) (Nov 4, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.02393)
+  [![Star](https://img.shields.io/github/stars/ShivamDuggal4/adaptive-length-tokenizer.svg?style=social&label=Star)](https://github.com/ShivamDuggal4/adaptive-length-tokenizer)
 
 + [HART: Efficient Visual Generation with Hybrid Autoregressive Transformer](https://arxiv.org/pdf/2410.10812) (Oct 14, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10812)
