@@ -24,6 +24,9 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 ### Continuous
 
++ [Seedance 1.0: Exploring the Boundaries of Video Generation Models](https://arxiv.org/pdf/2506.09113) (Jun 10, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.09113)
+
 + [MAGI-1: Autoregressive Video Generation at Scale](https://arxiv.org/pdf/2505.13211) (May 19, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.13211)
   [![Star](https://img.shields.io/github/stars/SandAI-org/MAGI-1.svg?style=social&label=Star)](https://github.com/SandAI-org/MAGI-1)
@@ -98,6 +101,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Open-Sora Plan: Open-Source Large Video Generation Model](https://arxiv.org/pdf/2412.00131) (Nov 28, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.00131)
   [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Open-Sora-Plan)
+
++ [WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model](https://arxiv.org/abs/2411.17459) (Nov 26, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17459)
+  [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/WF-VAE.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/WF-VAE)
 
 + [REDUCIO! Generating 1024 $\times$ 1024 Video within 16 Seconds using Extremely Compressed Motion Latents](https://arxiv.org/pdf/2411.13552) (Nov 20, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.13552)
