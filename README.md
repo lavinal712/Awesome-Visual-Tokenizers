@@ -31,6 +31,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.13211)
   [![Star](https://img.shields.io/github/stars/SandAI-org/MAGI-1.svg?style=social&label=Star)](https://github.com/SandAI-org/MAGI-1)
 
++ [BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset](https://arxiv.org/pdf/2505.09568) (May 14, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.09568)
+  [![Star](https://img.shields.io/github/stars/JiuhaiChen/BLIP3o.svg?style=social&label=Star)](https://github.com/JiuhaiChen/BLIP3o)
+
 + [REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers](https://arxiv.org/pdf/2504.10483) (Apr 14, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.10483)
   [![Star](https://img.shields.io/github/stars/End2End-Diffusion/REPA-E.svg?style=social&label=Star)](https://github.com/End2End-Diffusion/REPA-E)
@@ -42,6 +46,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [TULIP: Towards Unified Language-Image Pretraining](https://arxiv.org/pdf/2503.15485) (Mar 19, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.15485)
   [![Star](https://img.shields.io/github/stars/tulip-berkeley/open_clip.svg?style=social&label=Star)](https://github.com/tulip-berkeley/open_clip)
+
++ [LeanVAE: An Ultra-Efficient Reconstruction VAE for Video Diffusion Models](https://arxiv.org/pdf/2503.14325) (Mar 18, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14325)
+  [![Star](https://img.shields.io/github/stars/westlake-repl/LeanVAE.svg?style=social&label=Star)](https://github.com/westlake-repl/LeanVAE)
 
 + [FlowTok: Flowing Seamlessly Across Text and Image Tokens](https://arxiv.org/pdf/2503.10772) (Mar 13, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.10772)
@@ -231,6 +239,9 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 + [Efficient Generative Modeling with Residual Vector Quantization-Based Tokens](https://arxiv.org/pdf/2412.10208) (Dec 13, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.10208)
+
++ [ILLUME: Illuminating Your LLMs to See, Draw, and Self-Enhance](https://arxiv.org/pdf/2412.06673) (Dec 9, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06673)
 
 + [TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation](https://arxiv.org/pdf/2412.03069) (Dec 4, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03069)
