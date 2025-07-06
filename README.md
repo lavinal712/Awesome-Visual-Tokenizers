@@ -118,6 +118,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.13552)
   [![Star](https://img.shields.io/github/stars/microsoft/Reducio-VAE.svg?style=social&label=Star)](https://github.com/microsoft/Reducio-VAE)
 
++ [Improved Video VAE for Latent Video Diffusion Model](https://arxiv.org/pdf/2411.06449) (Nov 10, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.06449)
+  [![Star](https://img.shields.io/github/stars/ali-vilab/iv-vae.svg?style=social&label=Star)](https://github.com/ali-vilab/iv-vae)
+
 + [Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models](https://arxiv.org/pdf/2410.10733) (Oct 14, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10733)
   [![Star](https://img.shields.io/github/stars/mit-han-lab/efficientvit.svg?style=social&label=Star)](https://github.com/mit-han-lab/efficientvit)
@@ -196,6 +200,14 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![Star](https://img.shields.io/github/stars/AntixK/PyTorch-VAE.svg?style=social&label=Star)](https://github.com/AntixK/PyTorch-VAE)
 
 ### Discrete
+
++ [Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning](https://arxiv.org/pdf/2505.07538) (May 12, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.07538)
+  [![Star](https://img.shields.io/github/stars/selftok-team/SelftokTokenizer.svg?style=social&label=Star)](https://github.com/selftok-team/SelftokTokenizer)
+
++ [Generative Multimodal Pretraining with Discrete Diffusion Timestep Tokens](https://arxiv.org/pdf/2504.14666) (Apr 20, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.14666)
+  [![Star](https://img.shields.io/github/stars/selftok-team/SelftokTokenizer.svg?style=social&label=Star)](https://github.com/selftok-team/SelftokTokenizer)
 
 + [GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation](https://arxiv.org/pdf/2504.08736) (Apr 11, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.08736)
