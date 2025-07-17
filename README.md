@@ -449,6 +449,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 ### Hybrid
 
++ [DC-AR: Efficient Masked Autoregressive Image Generation with Deep Compression Hybrid Tokenizer](https://arxiv.org/pdf/2507.04947) (Jul 7, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.04947)
+  [![Star](https://img.shields.io/github/stars/dc-ai-projects/DC-AR.svg?style=social&label=Star)](https://github.com/dc-ai-projects/DC-AR)
+
 + [UniToken: Harmonizing Multimodal Understanding and Generation through Unified Visual Encoding](https://arxiv.org/pdf/2504.04423) (Apr 6, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.04423)
   [![Star](https://img.shields.io/github/stars/SxJyJay/UniToken.svg?style=social&label=Star)](https://github.com/SxJyJay/UniToken)
