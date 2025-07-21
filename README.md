@@ -201,6 +201,14 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 ### Discrete
 
++ [MGVQ: Could VQ-VAE Beat VAE? A Generalizable Tokenizer with Multi-group Quantization](https://arxiv.org/pdf/2507.07997) (Jul 10, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.07997)
+  [![Star](https://img.shields.io/github/stars/MKJia/MGVQ.svg?style=social&label=Star)](https://github.com/MKJia/MGVQ)
+
++ [AliTok: Towards Sequence Modeling Alignment between Tokenizer and Autoregressive Model](https://arxiv.org/pdf/2506.05289) (Jun 5, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.05289)
+  [![Star](https://img.shields.io/github/stars/ali-vilab/alitok.svg?style=social&label=Star)](https://github.com/ali-vilab/alitok)
+
 + [Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning](https://arxiv.org/pdf/2505.07538) (May 12, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.07538)
   [![Star](https://img.shields.io/github/stars/selftok-team/SelftokTokenizer.svg?style=social&label=Star)](https://github.com/selftok-team/SelftokTokenizer)
