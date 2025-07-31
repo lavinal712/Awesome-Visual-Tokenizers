@@ -221,10 +221,6 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.08736)
   [![Star](https://img.shields.io/github/stars/SilentView/GigaTok.svg?style=social&label=Star)](https://github.com/SilentView/GigaTok)
 
-+ [UniToken: Harmonizing Multimodal Understanding and Generation through Unified Visual Encoding](https://arxiv.org/pdf/2504.04423) (Apr 6, 2025. arXiv)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.04423)
-  [![Star](https://img.shields.io/github/stars/FoundationVision/UniTok.svg?style=social&label=Star)](https://github.com/FoundationVision/UniTok)
-
 + [VARGPT-v1.1: Improve Visual Autoregressive Large Unified Model via Iterative Instruction Tuning and Reinforcement Learning](https://arxiv.org/pdf/2504.02949) (Apr 3, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.02949)
   [![Star](https://img.shields.io/github/stars/VARGPT-family/VARGPT-v1.1.svg?style=social&label=Star)](https://github.com/VARGPT-family/VARGPT-v1.1)
@@ -240,6 +236,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [V2Flow: Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation](https://arxiv.org/pdf/2503.07493) (Mar 10, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.07493)
   [![Star](https://img.shields.io/github/stars/zhangguiwei610/V2Flow.svg?style=social&label=Star)](https://github.com/zhangguiwei610/V2Flow)
+
++ [UniTok: A Unified Tokenizer for Visual Generation and Understanding](https://arxiv.org/abs/2502.20321) (Feb 27, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.20321)
+  [![Star](https://img.shields.io/github/stars/FoundationVision/UniTok.svg?style=social&label=Star)](https://github.com/FoundationVision/UniTok)
 
 + [FlexTok: Resampling Images into 1D Token Sequences of Flexible Length](https://arxiv.org/pdf/2502.13967) (Feb 19, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.13967)
