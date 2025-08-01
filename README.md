@@ -24,8 +24,15 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 ### Continuous
 
++ [Latent Denoising Makes Good Visual Tokenizers](https://arxiv.org/pdf/2507.15856) (Jul 21, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.15856)
+  [![Star](https://img.shields.io/github/stars/Jiawei-Yang/DeTok.svg?style=social&label=Star)](https://github.com/Jiawei-Yang/DeTok)
+
 + [Seedance 1.0: Exploring the Boundaries of Video Generation Models](https://arxiv.org/pdf/2506.09113) (Jun 10, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.09113)
+
++ [VIVAT: Virtuous Improving VAE Training through Artifact Mitigation](https://arxiv.org/pdf/2506.07863) (Jun 9, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.07863)
 
 + [MAGI-1: Autoregressive Video Generation at Scale](https://arxiv.org/pdf/2505.13211) (May 19, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.13211)
@@ -200,6 +207,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![Star](https://img.shields.io/github/stars/AntixK/PyTorch-VAE.svg?style=social&label=Star)](https://github.com/AntixK/PyTorch-VAE)
 
 ### Discrete
+
++ [X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again](https://arxiv.org/pdf/2507.22058) (Jul 29, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.22058)
+  [![Star](https://img.shields.io/github/stars/X-Omni-Team/X-Omni.svg?style=social&label=Star)](https://github.com/X-Omni-Team/X-Omni)
 
 + [MGVQ: Could VQ-VAE Beat VAE? A Generalizable Tokenizer with Multi-group Quantization](https://arxiv.org/pdf/2507.07997) (Jul 10, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.07997)
