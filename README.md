@@ -24,6 +24,14 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 ### Continuous
 
++ [Qwen-Image Technical Report](https://arxiv.org/pdf/2508.02324) (Aug 4, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.02324)
+  [![Star](https://img.shields.io/github/stars/QwenLM/Qwen-Image.svg?style=social&label=Star)](https://github.com/QwenLM/Qwen-Image)
+
++ [DC-AE 1.5: Accelerating Diffusion Model Convergence with Structured Latent Space](https://arxiv.org/pdf/2508.00413) (Aug 1, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.00413)
+  [![Star](https://img.shields.io/github/stars/dc-ai-projects/DC-Gen.svg?style=social&label=Star)](https://github.com/dc-ai-projects/DC-Gen)
+
 + [Latent Denoising Makes Good Visual Tokenizers](https://arxiv.org/pdf/2507.15856) (Jul 21, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.15856)
   [![Star](https://img.shields.io/github/stars/Jiawei-Yang/DeTok.svg?style=social&label=Star)](https://github.com/Jiawei-Yang/DeTok)
@@ -212,9 +220,17 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.22058)
   [![Star](https://img.shields.io/github/stars/X-Omni-Team/X-Omni.svg?style=social&label=Star)](https://github.com/X-Omni-Team/X-Omni)
 
++ [Quantize-then-Rectify: Efficient VQ-VAE Training](https://arxiv.org/pdf/2507.10547) (Jul 14, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.10547)
+  [![Star](https://img.shields.io/github/stars/Neur-IO/ReVQ.svg?style=social&label=Star)](https://github.com/Neur-IO/ReVQ)
+
 + [MGVQ: Could VQ-VAE Beat VAE? A Generalizable Tokenizer with Multi-group Quantization](https://arxiv.org/pdf/2507.07997) (Jul 10, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.07997)
   [![Star](https://img.shields.io/github/stars/MKJia/MGVQ.svg?style=social&label=Star)](https://github.com/MKJia/MGVQ)
+
++ [Hita: Holistic Tokenizer for Autoregressive Image Generation](https://arxiv.org/pdf/2507.02358) (Jul 3, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.02358)
+  [![Star](https://img.shields.io/github/stars/CVMI-Lab/Hita.svg?style=social&label=Star)](https://github.com/CVMI-Lab/Hita)
 
 + [AliTok: Towards Sequence Modeling Alignment between Tokenizer and Autoregressive Model](https://arxiv.org/pdf/2506.05289) (Jun 5, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.05289)
