@@ -236,6 +236,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.05289)
   [![Star](https://img.shields.io/github/stars/ali-vilab/alitok.svg?style=social&label=Star)](https://github.com/ali-vilab/alitok)
 
++ [Images are Worth Variable Length of Representations](https://arxiv.org/pdf/2506.03643) (Jun 4, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.03643)
+  [![Star](https://img.shields.io/github/stars/mao1207/DOVE.svg?style=social&label=Star)](https://github.com/mao1207/DOVE)
+
 + [Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning](https://arxiv.org/pdf/2505.07538) (May 12, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.07538)
   [![Star](https://img.shields.io/github/stars/selftok-team/SelftokTokenizer.svg?style=social&label=Star)](https://github.com/selftok-team/SelftokTokenizer)
@@ -305,6 +309,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Image Understanding Makes for A Good Tokenizer for Image Generation](https://arxiv.org/pdf/2411.04406) (Nov 7, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.04406)
   [![Star](https://img.shields.io/github/stars/magic-research/vector_quantization.svg?style=social&label=Star)](https://github.com/magic-research/vector_quantization)
+
++ [Adaptive Length Image Tokenization via Recurrent Allocation](https://arxiv.org/pdf/2411.02393) (Nov 4, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.02393)
+  [![Star](https://img.shields.io/github/stars/ShivamDuggal4/adaptive-length-tokenizer.svg?style=social&label=Star)](https://github.com/ShivamDuggal4/adaptive-length-tokenizer)
 
 + [Addressing Representation Collapse in Vector Quantized Models with One Linear Layer](https://arxiv.org/pdf/2411.02038) (Nov 4, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.02038)
@@ -503,10 +511,6 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [VidTok: A Versatile and Open-Source Video Tokenizer](https://arxiv.org/pdf/2412.13061) (Dec 17, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.13061)
   [![Star](https://img.shields.io/github/stars/microsoft/vidtok.svg?style=social&label=Star)](https://github.com/microsoft/vidtok)
-
-+ [Adaptive Length Image Tokenization via Recurrent Allocation](https://arxiv.org/pdf/2411.02393) (Nov 4, 2024. arXiv)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.02393)
-  [![Star](https://img.shields.io/github/stars/ShivamDuggal4/adaptive-length-tokenizer.svg?style=social&label=Star)](https://github.com/ShivamDuggal4/adaptive-length-tokenizer)
 
 + [HART: Efficient Visual Generation with Hybrid Autoregressive Transformer](https://arxiv.org/pdf/2410.10812) (Oct 14, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10812)
