@@ -154,6 +154,7 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 + [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://arxiv.org/pdf/2408.11039) (Aug 20, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.11039)
+  [![Star](https://img.shields.io/github/stars/lucidrains/transfusion-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/transfusion-pytorch)
 
 + [CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer](https://arxiv.org/pdf/2408.06072) (Aug 12, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.06072)
@@ -256,6 +257,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.02949)
   [![Star](https://img.shields.io/github/stars/VARGPT-family/VARGPT-v1.1.svg?style=social&label=Star)](https://github.com/VARGPT-family/VARGPT-v1.1)
 
++ [MergeVQ: A Unified Framework for Visual Generation and Representation with Disentangled Token Merging and Quantization](https://arxiv.org/pdf/2504.00999) (Apr 1, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.00999)
+  [![Star](https://img.shields.io/github/stars/ApexGen-X/MergeVQ.svg?style=social&label=Star)](https://github.com/ApexGen-X/MergeVQ)
+
 + [CODA: Repurposing Continuous VAEs for Discrete Tokenization](https://arxiv.org/pdf/2503.17760) (Mar 22, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.17760)
   [![Star](https://img.shields.io/github/stars/LeapLabTHU/CODA.svg?style=social&label=Star)](https://github.com/LeapLabTHU/CODA)
@@ -290,6 +295,9 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 + [Efficient Generative Modeling with Residual Vector Quantization-Based Tokens](https://arxiv.org/pdf/2412.10208) (Dec 13, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.10208)
+
++ [SweetTok: Semantic-Aware Spatial-Temporal Tokenizer for Compact Video Discretization](https://arxiv.org/pdf/2412.10443) (Dec 11, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.10443)
 
 + [ILLUME: Illuminating Your LLMs to See, Draw, and Self-Enhance](https://arxiv.org/pdf/2412.06673) (Dec 9, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06673)
@@ -416,6 +424,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis](https://arxiv.org/pdf/2211.09117) (Nov 16, 2022. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.09117)
   [![Star](https://img.shields.io/github/stars/LTH14/mage.svg?style=social&label=Star)](https://github.com/LTH14/mage)
+
++ [Phenaki: Variable Length Video Generation From Open Domain Textual Description](https://arxiv.org/pdf/2210.02399) (Oct 5, 2022. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.02399)
+  [![Star](https://img.shields.io/github/stars/lucidrains/phenaki-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/phenaki-pytorch)
 
 + [MoVQ: Modulating Quantized Vectors for High-Fidelity Image Generation](https://arxiv.org/pdf/2209.09002) (Sep 19, 2022. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.09002)
