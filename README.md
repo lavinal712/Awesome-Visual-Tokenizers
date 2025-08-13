@@ -448,6 +448,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.14217)
   [![Star](https://img.shields.io/github/stars/THUDM/CogView2.svg?style=social&label=Star)](https://github.com/THUDM/CogView2)
 
++ [Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer](https://arxiv.org/pdf/2204.03638) (Apr 7, 2022. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.03638)
+  [![Star](https://img.shields.io/github/stars/SongweiGe/TATS.svg?style=social&label=Star)](https://github.com/SongweiGe/TATS)
+
 + [Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors](https://arxiv.org/pdf/2203.13131) (Mar 24, 2022. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.13131)
   [![Star](https://img.shields.io/github/stars/CasualGANPapers/Make-A-Scene.svg?style=social&label=Star)](https://github.com/CasualGANPapers/Make-A-Scene)
@@ -493,6 +497,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2012.09841)
   [![Star](https://img.shields.io/github/stars/CompVis/taming-transformers.svg?style=social&label=Star)](https://github.com/CompVis/taming-transformers)
 
++ [Hierarchical Quantized Autoencoders](https://arxiv.org/pdf/2002.08111) (Feb 19, 2020. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2002.08111)
+  [![Star](https://img.shields.io/github/stars/speechmatics/hqa.svg?style=social&label=Star)](https://github.com/speechmatics/hqa)
+
 + [Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/pdf/1906.00446) (Jun 2, 2019. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1906.00446)
   [![Star](https://img.shields.io/github/stars/rosinality/vq-vae-2-pytorch.svg?style=social&label=Star)](https://github.com/rosinality/vq-vae-2-pytorch)
@@ -507,6 +515,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [DC-AR: Efficient Masked Autoregressive Image Generation with Deep Compression Hybrid Tokenizer](https://arxiv.org/pdf/2507.04947) (Jul 7, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.04947)
   [![Star](https://img.shields.io/github/stars/dc-ai-projects/DC-AR.svg?style=social&label=Star)](https://github.com/dc-ai-projects/DC-AR)
+
++ [TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation](https://arxiv.org/pdf/2505.05422) (May 8, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.05422)
+  [![Star](https://img.shields.io/github/stars/TencentARC/TokLIP.svg?style=social&label=Star)](https://github.com/TencentARC/TokLIP)
 
 + [UniToken: Harmonizing Multimodal Understanding and Generation through Unified Visual Encoding](https://arxiv.org/pdf/2504.04423) (Apr 6, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.04423)
@@ -523,6 +535,9 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [VidTok: A Versatile and Open-Source Video Tokenizer](https://arxiv.org/pdf/2412.13061) (Dec 17, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.13061)
   [![Star](https://img.shields.io/github/stars/microsoft/vidtok.svg?style=social&label=Star)](https://github.com/microsoft/vidtok)
+
++ [Language-Guided Image Tokenization for Generation](https://arxiv.org/pdf/2412.05796) (Dec 8, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.05796)
 
 + [HART: Efficient Visual Generation with Hybrid Autoregressive Transformer](https://arxiv.org/pdf/2410.10812) (Oct 14, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10812)
