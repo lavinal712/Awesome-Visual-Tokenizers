@@ -249,6 +249,9 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.07538)
   [![Star](https://img.shields.io/github/stars/selftok-team/SelftokTokenizer.svg?style=social&label=Star)](https://github.com/selftok-team/SelftokTokenizer)
 
++ [TVC: Tokenized Video Compression with Ultra-Low Bitrate](https://arxiv.org/pdf/2504.16953) (Apr 22, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.16953)
+
 + [Generative Multimodal Pretraining with Discrete Diffusion Timestep Tokens](https://arxiv.org/pdf/2504.14666) (Apr 20, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.14666)
   [![Star](https://img.shields.io/github/stars/selftok-team/SelftokTokenizer.svg?style=social&label=Star)](https://github.com/selftok-team/SelftokTokenizer)
@@ -397,6 +400,9 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05737)
   [![Star](https://img.shields.io/github/stars/lucidrains/magvit2-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/magvit2-pytorch)
 
++ [Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers](https://arxiv.org/pdf/2310.05400) (Oct 9, 2023. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05400)
+
 + [Finite Scalar Quantization: VQ-VAE Made Simple](https://arxiv.org/pdf/2309.15505) (Sep 27, 2023. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.15505)
   [![Star](https://img.shields.io/github/stars/lucidrains/vector-quantize-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/vector-quantize-pytorch)
@@ -413,6 +419,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.04632)
   [![Star](https://img.shields.io/github/stars/buxiangzhiren/Asymmetric_VQGAN.svg?style=social&label=Star)](https://github.com/buxiangzhiren/Asymmetric_VQGAN)
 
++ [Not All Image Regions Matter: Masked Vector Quantization for Autoregressive Image Generation](https://arxiv.org/pdf/2305.13607) (May 23, 2023. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13607)
+  [![Star](https://img.shields.io/github/stars/CrossmodalGroup/MaskedVectorQuantization.svg?style=social&label=Star)](https://github.com/CrossmodalGroup/MaskedVectorQuantization)
+
 + [Towards Accurate Image Coding: Improved Autoregressive Image Generation with Dynamic Vector Quantization](https://arxiv.org/pdf/2305.11718) (May 19, 2023. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11718)
   [![Star](https://img.shields.io/github/stars/CrossmodalGroup/DynamicVectorQuantization.svg?style=social&label=Star)](https://github.com/CrossmodalGroup/DynamicVectorQuantization)
@@ -424,6 +434,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Muse: Text-To-Image Generation via Masked Generative Transformers](https://arxiv.org/pdf/2301.00704) (Jan 2, 2023. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.00704)
   [![Star](https://img.shields.io/github/stars/huggingface/open-muse.svg?style=social&label=Star)](https://github.com/huggingface/open-muse)
+
++ [Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis](https://arxiv.org/pdf/2212.03185) (Dec 6, 2022. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.03185)
+  [![Star](https://img.shields.io/github/stars/TencentARC/BasicVQ-GEN.svg?style=social&label=Star)](https://github.com/TencentARC/BasicVQ-GEN)
 
 + [MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis](https://arxiv.org/pdf/2211.09117) (Nov 16, 2022. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.09117)
