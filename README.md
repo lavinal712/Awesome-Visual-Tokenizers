@@ -24,6 +24,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 ### Continuous
 
++ [NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale](https://arxiv.org/pdf/2508.10711) (Aug 14, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.10711)
+  [![Star](https://img.shields.io/github/stars/stepfun-ai/NextStep-1.svg?style=social&label=Star)](https://github.com/stepfun-ai/NextStep-1)
+
 + [Qwen-Image Technical Report](https://arxiv.org/pdf/2508.02324) (Aug 4, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.02324)
   [![Star](https://img.shields.io/github/stars/QwenLM/Qwen-Image.svg?style=social&label=Star)](https://github.com/QwenLM/Qwen-Image)
