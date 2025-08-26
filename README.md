@@ -419,6 +419,9 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.08041)
   [![Star](https://img.shields.io/github/stars/AILab-CVC/SEED.svg?style=social&label=Star)](https://github.com/AILab-CVC/SEED)
 
++ [SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs](https://arxiv.org/pdf/2306.17842) (Jun 29, 2023. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.17842)
+
 + [Designing a Better Asymmetric VQGAN for StableDiffusion](https://arxiv.org/pdf/2306.04632) (Jun 7, 2023. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.04632)
   [![Star](https://img.shields.io/github/stars/buxiangzhiren/Asymmetric_VQGAN.svg?style=social&label=Star)](https://github.com/buxiangzhiren/Asymmetric_VQGAN)
@@ -434,6 +437,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Binary Latent Diffusion](https://arxiv.org/pdf/2304.04820) (Apr 10, 2023. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.04820)
   [![Star](https://img.shields.io/github/stars/ZeWang95/BinaryLatentDiffusion.svg?style=social&label=Star)](https://github.com/ZeWang95/BinaryLatentDiffusion)
+
++ [Language Quantized AutoEncoders: Towards Unsupervised Text-Image Alignment](https://arxiv.org/pdf/2302.00902) (Feb 2, 2023. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.00902)
+  [![Star](https://img.shields.io/github/stars/haoliuhl/language-quantized-autoencoders.svg?style=social&label=Star)](https://github.com/haoliuhl/language-quantized-autoencoders)
 
 + [Muse: Text-To-Image Generation via Masked Generative Transformers](https://arxiv.org/pdf/2301.00704) (Jan 2, 2023. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.00704)
