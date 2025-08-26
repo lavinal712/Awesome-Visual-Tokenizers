@@ -141,6 +141,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.06449)
   [![Star](https://img.shields.io/github/stars/ali-vilab/iv-vae.svg?style=social&label=Star)](https://github.com/ali-vilab/iv-vae)
 
++ [Allegro: Open the Black Box of Commercial-Level Video Generation Model](https://arxiv.org/pdf/2410.15458) (Oct 20, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.15458)
+  [![Star](https://img.shields.io/github/stars/rhymes-ai/Allegro.svg?style=social&label=Star)](https://github.com/rhymes-ai/Allegro)
+
 + [Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models](https://arxiv.org/pdf/2410.10733) (Oct 14, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10733)
   [![Star](https://img.shields.io/github/stars/mit-han-lab/efficientvit.svg?style=social&label=Star)](https://github.com/mit-han-lab/efficientvit)
@@ -529,6 +533,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![Star](https://img.shields.io/github/stars/lucidrains/vector-quantize-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/vector-quantize-pytorch)
 
 ### Hybrid
+
++ [OneVAE: Joint Discrete and Continuous Optimization Helps Discrete Video VAE Train Better](https://arxiv.org/pdf/2508.09857) (Aug 13, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.09857)
+  [![Star](https://img.shields.io/github/stars/HVision-NKU/OneVAE.svg?style=social&label=Star)](https://github.com/HVision-NKU/OneVAE)
 
 + [DC-AR: Efficient Masked Autoregressive Image Generation with Deep Compression Hybrid Tokenizer](https://arxiv.org/pdf/2507.04947) (Jul 7, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.04947)
