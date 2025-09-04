@@ -225,6 +225,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 ### Discrete
 
++ [WeTok: Powerful Discrete Tokenization for High-Fidelity Visual Reconstruction](https://arxiv.org/pdf/2508.05599) (Aug 7, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.05599)
+  [![Star](https://img.shields.io/github/stars/zhuangshaobin/WeTok.svg?style=social&label=Star)](https://github.com/zhuangshaobin/WeTok)
+
 + [X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again](https://arxiv.org/pdf/2507.22058) (Jul 29, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.22058)
   [![Star](https://img.shields.io/github/stars/X-Omni-Team/X-Omni.svg?style=social&label=Star)](https://github.com/X-Omni-Team/X-Omni)
