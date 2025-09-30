@@ -545,6 +545,9 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 ### Hybrid
 
++ [AToken: A Unified Tokenizer for Vision](https://arxiv.org/pdf/2509.14476) (Sep 17, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.14476)
+
 + [OneVAE: Joint Discrete and Continuous Optimization Helps Discrete Video VAE Train Better](https://arxiv.org/pdf/2508.09857) (Aug 13, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.09857)
   [![Star](https://img.shields.io/github/stars/HVision-NKU/OneVAE.svg?style=social&label=Star)](https://github.com/HVision-NKU/OneVAE)
