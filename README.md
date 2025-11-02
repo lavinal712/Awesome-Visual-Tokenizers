@@ -24,13 +24,20 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 ### Continuous
 
-+ [DC-VideoGen: Efficient Video Generation with Deep Compression Video Autoencoder](https://arxiv.org/pdf/2509.2509.25182) (Sep 29, 2025. arXiv)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.2509.25182)
++ [Diffusion Transformers with Representation Autoencoders](https://arxiv.org/pdf/2510.11690) (Oct 13, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.11690)
+  [![Star](https://img.shields.io/github/stars/dc-ai-projects/DC-VideoGen.svg?style=social&label=Star)](https://github.com/dc-ai-projects/DC-VideoGen)
+
++ [DC-VideoGen: Efficient Video Generation with Deep Compression Video Autoencoder](https://arxiv.org/pdf/2509.25182) (Sep 29, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.25182)
   [![Star](https://img.shields.io/github/stars/dc-ai-projects/DC-VideoGen.svg?style=social&label=Star)](https://github.com/dc-ai-projects/DC-VideoGen)
 
 + [HunyuanImage 3.0 Technical Report](https://arxiv.org/pdf/2509.23951) (Sep 28, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.23951)
   [![Star](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanImage-3.0.svg?style=social&label=Star)](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0)
+
++ [Seedream 4.0: Toward Next-generation Multimodal Image Generation](https://arxiv.org/pdf/2509.20427) (Sep 24, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.20427)
 
 + [NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale](https://arxiv.org/pdf/2508.10711) (Aug 14, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.10711)
