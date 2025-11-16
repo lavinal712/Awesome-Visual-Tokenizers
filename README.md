@@ -24,6 +24,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 ### Continuous
 
++ [Vision Foundation Models Can Be Good Tokenizers for Latent Diffusion Models](https://arxiv.org/pdf/2510.18457) (Oct 21, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.18457)
+  [![Star](https://img.shields.io/github/stars/tianciB/VFM-VAE.svg?style=social&label=Star)](https://github.com/tianciB/VFM-VAE)
+
 + [Diffusion Transformers with Representation Autoencoders](https://arxiv.org/pdf/2510.11690) (Oct 13, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.11690)
   [![Star](https://img.shields.io/github/stars/dc-ai-projects/DC-VideoGen.svg?style=social&label=Star)](https://github.com/dc-ai-projects/DC-VideoGen)
@@ -31,6 +35,9 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [DC-VideoGen: Efficient Video Generation with Deep Compression Video Autoencoder](https://arxiv.org/pdf/2509.25182) (Sep 29, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.25182)
   [![Star](https://img.shields.io/github/stars/dc-ai-projects/DC-VideoGen.svg?style=social&label=Star)](https://github.com/dc-ai-projects/DC-VideoGen)
+
++ [Aligning Visual Foundation Encoders to Tokenizers for Diffusion Models](https://arxiv.org/pdf/2509.25162) (Sep 29, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.25162)
 
 + [HunyuanImage 3.0 Technical Report](https://arxiv.org/pdf/2509.23951) (Sep 28, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.23951)
