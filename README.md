@@ -24,6 +24,9 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 ### Continuous
 
++ [Denoising Vision Transformer Autoencoder with Spectral Self-Regularization](https://arxiv.org/pdf/2511.12633) (Nov 16, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.12633)
+
 + [Vision Foundation Models Can Be Good Tokenizers for Latent Diffusion Models](https://arxiv.org/pdf/2510.18457) (Oct 21, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.18457)
   [![Star](https://img.shields.io/github/stars/tianciB/VFM-VAE.svg?style=social&label=Star)](https://github.com/tianciB/VFM-VAE)
@@ -31,6 +34,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Diffusion Transformers with Representation Autoencoders](https://arxiv.org/pdf/2510.11690) (Oct 13, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.11690)
   [![Star](https://img.shields.io/github/stars/dc-ai-projects/DC-VideoGen.svg?style=social&label=Star)](https://github.com/dc-ai-projects/DC-VideoGen)
+
++ [Ming-UniVision: Joint Image Understanding and Generation with a Unified Continuous Tokenizer](https://arxiv.org/pdf/2510.06590) (Oct 8, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.06590)
+  [![Star](https://img.shields.io/github/stars/inclusionAI/Ming-UniVision.svg?style=social&label=Star)](https://github.com/inclusionAI/Ming-UniVision)
 
 + [DC-VideoGen: Efficient Video Generation with Deep Compression Video Autoencoder](https://arxiv.org/pdf/2509.25182) (Sep 29, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.25182)
