@@ -31,6 +31,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.18457)
   [![Star](https://img.shields.io/github/stars/tianciB/VFM-VAE.svg?style=social&label=Star)](https://github.com/tianciB/VFM-VAE)
 
++ [Adapting Self-Supervised Representations as a Latent Space for Efficient Generation](https://arxiv.org/pdf/2510.14630) (Oct 16, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.14630)
+  [![Star](https://img.shields.io/github/stars/CompVis/RepTok.svg?style=social&label=Star)](https://github.com/CompVis/RepTok)
+
 + [Diffusion Transformers with Representation Autoencoders](https://arxiv.org/pdf/2510.11690) (Oct 13, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.11690)
   [![Star](https://img.shields.io/github/stars/dc-ai-projects/DC-VideoGen.svg?style=social&label=Star)](https://github.com/dc-ai-projects/DC-VideoGen)
