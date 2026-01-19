@@ -47,6 +47,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.25182)
   [![Star](https://img.shields.io/github/stars/dc-ai-projects/DC-VideoGen.svg?style=social&label=Star)](https://github.com/dc-ai-projects/DC-VideoGen)
 
++ [SANA-Video: Efficient Video Generation with Block Linear Diffusion Transformer](https://arxiv.org/pdf/2509.24695) (Sep 29, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.24695)
+  [![Star](https://img.shields.io/github/stars/NVlabs/Sana.svg?style=social&label=Star)](https://github.com/NVlabs/Sana)
+
 + [Aligning Visual Foundation Encoders to Tokenizers for Diffusion Models](https://arxiv.org/pdf/2509.25162) (Sep 29, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.25162)
 
@@ -257,6 +261,13 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![Star](https://img.shields.io/github/stars/AntixK/PyTorch-VAE.svg?style=social&label=Star)](https://github.com/AntixK/PyTorch-VAE)
 
 ### Discrete
+
++ [ResTok: Learning Hierarchical Residuals in 1D Visual Tokenizers for Autoregressive Image Generation](https://arxiv.org/pdf/2601.03955) (Jan 7, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.03955)
+  [![Star](https://img.shields.io/github/stars/zfu006/ReTok.svg?style=social&label=Star)](https://github.com/zfu006/ReTok)
+
++ [Improving Flexible Image Tokenizers for Autoregressive Image Generation](https://arxiv.org/pdf/2601.01535) (Jan 4, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.01535)
 
 + [WeTok: Powerful Discrete Tokenization for High-Fidelity Visual Reconstruction](https://arxiv.org/pdf/2508.05599) (Aug 7, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.05599)
