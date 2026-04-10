@@ -269,6 +269,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Improving Flexible Image Tokenizers for Autoregressive Image Generation](https://arxiv.org/pdf/2601.01535) (Jan 4, 2026. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.01535)
 
++ [Scalable Training for Vector-Quantized Networks with 100% Codebook Utilization](https://arxiv.org/pdf/2509.10140) (Sep 12, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.10140)
+  [![Star](https://img.shields.io/github/stars/yfChang-cv/FVQ.svg?style=social&label=Star)](https://github.com/yfChang-cv/FVQ)
+
 + [WeTok: Powerful Discrete Tokenization for High-Fidelity Visual Reconstruction](https://arxiv.org/pdf/2508.05599) (Aug 7, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.05599)
   [![Star](https://img.shields.io/github/stars/zhuangshaobin/WeTok.svg?style=social&label=Star)](https://github.com/zhuangshaobin/WeTok)
