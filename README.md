@@ -24,6 +24,24 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 ### Continuous
 
++ [VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization](https://arxiv.org/pdf/2604.12887) (Apr 14, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.12887)
+  [![Star](https://img.shields.io/github/stars/apple/ml-videoflextok.svg?style=social&label=Star)](https://github.com/apple/ml-videoflextok)
+
++ [MacTok: Robust Continuous Tokenization for Image Generation](https://arxiv.org/pdf/2603.29634) (Mar 31, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.29634)
+
++ [VTok: A Unified Video Tokenizer with Decoupled Spatial-Temporal Latents](https://arxiv.org/pdf/2602.04202) (Feb 4, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.04202)
+  [![Star](https://img.shields.io/github/stars/tianciB/wangf3014/VTok.svg?style=social&label=Star)](https://github.com/wangf3014/VTok)
+
++ [Composable Visual Tokenizers with Generator-Free Diagnostics of Learnability](https://arxiv.org/pdf/2602.03339) (Feb 3, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.03339)
+
++ [Scaling Text-to-Image Diffusion Transformers with Representation Autoencoders](https://arxiv.org/pdf/2601.16208) (Jan 22, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.16208)
+  [![Star](https://img.shields.io/github/stars/tianciB/ZitengWangNYU/Scale-RAE.svg?style=social&label=Star)](https://github.com/ZitengWangNYU/Scale-RAE)
+
 + [Denoising Vision Transformer Autoencoder with Spectral Self-Regularization](https://arxiv.org/pdf/2511.12633) (Nov 16, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.12633)
 
@@ -64,6 +82,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale](https://arxiv.org/pdf/2508.10711) (Aug 14, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.10711)
   [![Star](https://img.shields.io/github/stars/stepfun-ai/NextStep-1.svg?style=social&label=Star)](https://github.com/stepfun-ai/NextStep-1)
+
++ [Single-pass Adaptive Image Tokenization for Minimum Program Search](https://arxiv.org/pdf/2507.07995) (Jul 10, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.07995)
+  [![Star](https://img.shields.io/github/stars/ShivamDuggal4/karl.svg?style=social&label=Star)](https://github.com/ShivamDuggal4/karl)
 
 + [Qwen-Image Technical Report](https://arxiv.org/pdf/2508.02324) (Aug 4, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.02324)
@@ -262,12 +284,32 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 ### Discrete
 
++ [Semantic One-Dimensional Tokenizer for Image Reconstruction and Generation](https://arxiv.org/pdf/2603.16373) (Mar 17, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.16373)
+
++ [EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation](https://arxiv.org/pdf/2603.12267) (Mar 12, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.12267)
+  [![Star](https://img.shields.io/github/stars/HKU-MMLab/EVATok.svg?style=social&label=Star)](https://github.com/HKU-MMLab/EVATok)
+
++ [NativeTok: Native Visual Tokenization for Improved Image Generation](https://arxiv.org/pdf/2601.22837) (Jan 30, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.22837)
+  [![Star](https://img.shields.io/github/stars/wangbei1/Nativetok.svg?style=social&label=Star)](https://github.com/wangbei1/Nativetok)
+
++ [Soft Tail-dropping for Adaptive Visual Tokenization](https://arxiv.org/pdf/2601.14246) (Jan 20, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.14246)
+  [![Star](https://img.shields.io/github/stars/zychen-ustc/STAT.svg?style=social&label=Star)](https://github.com/zychen-ustc/STAT)
+
 + [ResTok: Learning Hierarchical Residuals in 1D Visual Tokenizers for Autoregressive Image Generation](https://arxiv.org/pdf/2601.03955) (Jan 7, 2026. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.03955)
-  [![Star](https://img.shields.io/github/stars/zfu006/ReTok.svg?style=social&label=Star)](https://github.com/zfu006/ReTok)
+  [![Star](https://img.shields.io/github/stars/Kwai-Kolors/ResTok.svg?style=social&label=Star)](https://github.com/Kwai-Kolors/ResTok)
 
 + [Improving Flexible Image Tokenizers for Autoregressive Image Generation](https://arxiv.org/pdf/2601.01535) (Jan 4, 2026. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.01535)
+  [![Star](https://img.shields.io/github/stars/zfu006/ReTok.svg?style=social&label=Star)](https://github.com/zfu006/ReTok)
+
++ [InfoTok: Adaptive Discrete Video Tokenizer via Information-Theoretic Compression](https://arxiv.org/pdf/2512.16975) (Dec 18, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.16975)
+  [![Star](https://img.shields.io/github/stars/YWolfeee/InfoTok.svg?style=social&label=Star)](https://github.com/YWolfeee/InfoTok)
 
 + [Scalable Training for Vector-Quantized Networks with 100% Codebook Utilization](https://arxiv.org/pdf/2509.10140) (Sep 12, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.10140)
@@ -284,6 +326,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Quantize-then-Rectify: Efficient VQ-VAE Training](https://arxiv.org/pdf/2507.10547) (Jul 14, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.10547)
   [![Star](https://img.shields.io/github/stars/Neur-IO/ReVQ.svg?style=social&label=Star)](https://github.com/Neur-IO/ReVQ)
+
++ [Vision Foundation Models as Effective Visual Tokenizers for Autoregressive Image Generation](https://arxiv.org/pdf/2507.08441) (Jul 11, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.08441)
+  [![Star](https://img.shields.io/github/stars/CVMI-Lab/VFMTok.svg?style=social&label=Star)](https://github.com/CVMI-Lab/VFMTok)
 
 + [MGVQ: Could VQ-VAE Beat VAE? A Generalizable Tokenizer with Multi-group Quantization](https://arxiv.org/pdf/2507.07997) (Jul 10, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.07997)
@@ -331,6 +377,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Flow to the Mode: Mode-Seeking Diffusion Autoencoders for State-of-the-Art Image Tokenization](https://arxiv.org/pdf/2503.11056) (Mar 14, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11056)
   [![Star](https://img.shields.io/github/stars/kylesargent/FlowMo.svg?style=social&label=Star)](https://github.com/kylesargent/FlowMo)
+
++ ["Principal Components" Enable A New Language of Images](https://arxiv.org/pdf/2503.08685) (Mar 11, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.08685)
+  [![Star](https://img.shields.io/github/stars/visual-gen/semanticist.svg?style=social&label=Star)](https://github.com/visual-gen/semanticist)
 
 + [V2Flow: Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation](https://arxiv.org/pdf/2503.07493) (Mar 10, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.07493)
@@ -498,6 +548,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.00704)
   [![Star](https://img.shields.io/github/stars/huggingface/open-muse.svg?style=social&label=Star)](https://github.com/huggingface/open-muse)
 
++ [MAGVIT: Masked Generative Video Transformer](https://arxiv.org/pdf/2212.05199) (Dec 10, 2022. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.05199)
+  [![Star](https://img.shields.io/github/stars/google-research/magvit.svg?style=social&label=Star)](https://github.com/google-research/magvit)
+
 + [Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis](https://arxiv.org/pdf/2212.03185) (Dec 6, 2022. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.03185)
   [![Star](https://img.shields.io/github/stars/TencentARC/BasicVQ-GEN.svg?style=social&label=Star)](https://github.com/TencentARC/BasicVQ-GEN)
@@ -630,6 +684,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [HART: Efficient Visual Generation with Hybrid Autoregressive Transformer](https://arxiv.org/pdf/2410.10812) (Oct 14, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10812)
   [![Star](https://img.shields.io/github/stars/mit-han-lab/hart.svg?style=social&label=Star)](https://github.com/mit-han-lab/hart)
+
++ [ElasticTok: Adaptive Tokenization for Image and Video](https://arxiv.org/pdf/2410.08368) (Oct 10, 2024. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.08368)
+  [![Star](https://img.shields.io/github/stars/LargeWorldModel/ElasticTok.svg?style=social&label=Star)](https://github.com/LargeWorldModel/ElasticTok)
 
 + [OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation](https://arxiv.org/pdf/2406.09399) (Jun 13, 2024. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.09399)
