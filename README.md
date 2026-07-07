@@ -24,9 +24,17 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 ### Continuous
 
++ [Improved Baselines with Representation Autoencoders](https://arxiv.org/pdf/2605.18324) (May 18, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.18324)
+  [![Star](https://img.shields.io/github/stars/nanovisionx/RAEv2.svg?style=social&label=Star)](https://github.com/nanovisionx/RAEv2)
+
 + [VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization](https://arxiv.org/pdf/2604.12887) (Apr 14, 2026. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.12887)
   [![Star](https://img.shields.io/github/stars/apple/ml-videoflextok.svg?style=social&label=Star)](https://github.com/apple/ml-videoflextok)
+
++ [RAE-AR: Taming Autoregressive Models with Representation Autoencoders](https://arxiv.org/pdf/2604.01545) (Apr 2, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.01545)
+  [![Star](https://img.shields.io/github/stars/YuHu98/RAE-AR.svg?style=social&label=Star)](https://github.com/YuHu98/RAE-AR)
 
 + [MacTok: Robust Continuous Tokenization for Image Generation](https://arxiv.org/pdf/2603.29634) (Mar 31, 2026. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.29634)
