@@ -24,6 +24,19 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 ### Continuous
 
++ [VideoTok4D: A 4D-Aware Video Tokenizer for Compact World Representation](https://arxiv.org/pdf/2609.12874) (Sep 11, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.12874)
+
++ [KVAE: Family of Tokenizers for Multimodal Generative Models](https://arxiv.org/pdf/2608.05798) (Aug 6, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.05798)
+  [![Star](https://img.shields.io/github/stars/kandinskylab/kvae.svg?style=social&label=Star)](https://github.com/kandinskylab/kvae)
+
++ [TivTok: Broadcasting Time-Invariant Tokens for Scalable Video Tokenization](https://arxiv.org/pdf/2606.17590) (Jun 16, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.17590)
+
++ [HYDRA-X: Native Unified Multimodal Models with Holistic Visual Tokenizers](https://arxiv.org/pdf/2606.13289) (Jun 11, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.13289)
+
 + [Improved Baselines with Representation Autoencoders](https://arxiv.org/pdf/2605.18324) (May 18, 2026. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.18324)
   [![Star](https://img.shields.io/github/stars/nanovisionx/RAEv2.svg?style=social&label=Star)](https://github.com/nanovisionx/RAEv2)
@@ -291,6 +304,22 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![Star](https://img.shields.io/github/stars/AntixK/PyTorch-VAE.svg?style=social&label=Star)](https://github.com/AntixK/PyTorch-VAE)
 
 ### Discrete
+
++ [Studying Image Tokenizers as Visual Languages in Unified Multimodal Models](https://arxiv.org/pdf/2609.09143) (Sep 8, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.09143)
+  [![Star](https://img.shields.io/github/stars/amazon-far/Tokenizer_UMM.svg?style=social&label=Star)](https://github.com/amazon-far/Tokenizer_UMM)
+
++ [VQ-Transplant: Efficient VQ-Module Integration for Pre-trained Visual Tokenizers](https://arxiv.org/pdf/2607.19575) (Jul 21, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.19575)
+  [![Star](https://img.shields.io/github/stars/VQ-Research/VQ-Transplant.svg?style=social&label=Star)](https://github.com/VQ-Research/VQ-Transplant)
+
++ [GEAR: Guided End-to-End AutoRegression for Image Synthesis](https://arxiv.org/pdf/2606.32039) (Jun 30, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.32039)
+  [![Star](https://img.shields.io/github/stars/Tencent-Hunyuan/GEAR.svg?style=social&label=Star)](https://github.com/Tencent-Hunyuan/GEAR)
+
++ [Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification](https://arxiv.org/pdf/2606.18249) (Jun 16, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.18249)
+  [![Star](https://img.shields.io/github/stars/ShareLab-SII/UniAR.svg?style=social&label=Star)](https://github.com/ShareLab-SII/UniAR)
 
 + [Semantic One-Dimensional Tokenizer for Image Reconstruction and Generation](https://arxiv.org/pdf/2603.16373) (Mar 17, 2026. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.16373)
@@ -654,6 +683,9 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![Star](https://img.shields.io/github/stars/lucidrains/vector-quantize-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/vector-quantize-pytorch)
 
 ### Hybrid
+
++ [MergeTok: Unified Continuous and Discrete Visual Tokenization via Token Merging](https://arxiv.org/pdf/2605.30904) (May 29, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.30904)
 
 + [AToken: A Unified Tokenizer for Vision](https://arxiv.org/pdf/2509.14476) (Sep 17, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.14476)
