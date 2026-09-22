@@ -27,15 +27,45 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [VideoTok4D: A 4D-Aware Video Tokenizer for Compact World Representation](https://arxiv.org/pdf/2609.12874) (Sep 11, 2026. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.12874)
 
++ [LoopVAE: Recurrent Depth Across Scales for Visual Tokenization](https://arxiv.org/pdf/2609.11516) (Sep 10, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.11516)
+
++ [Keep-or-Drop? Adaptive Tokenizer for Compact Video Representation](https://arxiv.org/pdf/2608.24293) (Aug 25, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.24293)
+  [![Star](https://img.shields.io/github/stars/kakao/KATok.svg?style=social&label=Star)](https://github.com/kakao/KATok)
+
++ [AffineTok: Semantic Affine Consistency for Diffusion-Friendly Visual Tokenizer](https://arxiv.org/pdf/2608.23864) (Aug 24, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.23864)
+
 + [KVAE: Family of Tokenizers for Multimodal Generative Models](https://arxiv.org/pdf/2608.05798) (Aug 6, 2026. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.05798)
   [![Star](https://img.shields.io/github/stars/kandinskylab/kvae.svg?style=social&label=Star)](https://github.com/kandinskylab/kvae)
+
++ [EmbodiedVAE: Disentangled Video VAE for Efficient and Controllable Embodied Manipulation](https://arxiv.org/pdf/2608.02990) (Aug 4, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.02990)
+
++ [SPAE: Spectrally Guided Autoencoder for Pretrained Visual Latents](https://arxiv.org/pdf/2608.01306) (Aug 2, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.01306)
+
++ [OmniVAE: An Audio-Video VAE with Cross-Modal Alignment for Joint Generation](https://arxiv.org/pdf/2607.23855) (Jul 26, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.23855)
+  [![Star](https://img.shields.io/github/stars/OpenMOSS/OmniVAE.svg?style=social&label=Star)](https://github.com/OpenMOSS/OmniVAE)
+
++ [Variable-Length Tokenization via Learnable Global Merging for Diffusion Transformers](https://arxiv.org/pdf/2606.20076) (Jun 18, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.20076)
+  [![Star](https://img.shields.io/github/stars/movinghoon/lgm.svg?style=social&label=Star)](https://github.com/movinghoon/lgm)
 
 + [TivTok: Broadcasting Time-Invariant Tokens for Scalable Video Tokenization](https://arxiv.org/pdf/2606.17590) (Jun 16, 2026. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.17590)
 
 + [HYDRA-X: Native Unified Multimodal Models with Holistic Visual Tokenizers](https://arxiv.org/pdf/2606.13289) (Jun 11, 2026. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.13289)
+
++ [Adaptive Tokenisation Via Temporal Redundancy Masking And Latent Inpainting](https://arxiv.org/pdf/2606.06158) (Jun 4, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.06158)
+
++ [Balancing Image Compression and Generation with Bootstrapped Tokenization](https://arxiv.org/pdf/2606.05552) (Jun 4, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.05552)
 
 + [Improved Baselines with Representation Autoencoders](https://arxiv.org/pdf/2605.18324) (May 18, 2026. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.18324)
@@ -309,6 +339,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2609.09143)
   [![Star](https://img.shields.io/github/stars/amazon-far/Tokenizer_UMM.svg?style=social&label=Star)](https://github.com/amazon-far/Tokenizer_UMM)
 
++ [dRAE: Representation Autoencoder with Hyper-Spherical Codes](https://arxiv.org/pdf/2607.22148) (Jul 24, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.22148)
+  [![Star](https://img.shields.io/github/stars/martian422/dRAE.svg?style=social&label=Star)](https://github.com/martian422/dRAE)
+
 + [VQ-Transplant: Efficient VQ-Module Integration for Pre-trained Visual Tokenizers](https://arxiv.org/pdf/2607.19575) (Jul 21, 2026. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.19575)
   [![Star](https://img.shields.io/github/stars/VQ-Research/VQ-Transplant.svg?style=social&label=Star)](https://github.com/VQ-Research/VQ-Transplant)
@@ -317,9 +351,22 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.32039)
   [![Star](https://img.shields.io/github/stars/Tencent-Hunyuan/GEAR.svg?style=social&label=Star)](https://github.com/Tencent-Hunyuan/GEAR)
 
++ [AVTok: 1D Unified Tokenization for Holistic Audio-Video Generation](https://arxiv.org/pdf/2606.30811) (Jun 29, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.30811)
+
 + [Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification](https://arxiv.org/pdf/2606.18249) (Jun 16, 2026. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.18249)
   [![Star](https://img.shields.io/github/stars/ShareLab-SII/UniAR.svg?style=social&label=Star)](https://github.com/ShareLab-SII/UniAR)
+
++ [IDEAL: In-DEpth ALignment Makes A Discrete Representation AutoEncoder](https://arxiv.org/pdf/2606.11096) (Jun 9, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.11096)
+  [![Star](https://img.shields.io/github/stars/ShareLab-SII/IDEAL.svg?style=social&label=Star)](https://github.com/ShareLab-SII/IDEAL)
+
++ [AdaTok: Self-Budgeting Image Tokenization with Quality-Preserving Dynamic Tokens](https://arxiv.org/pdf/2606.07185) (Jun 5, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.07185)
+
++ [ChannelTok: Efficient Flexible-Length Vision Tokenization](https://arxiv.org/pdf/2606.04461) (Jun 3, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.04461)
 
 + [Semantic One-Dimensional Tokenizer for Image Reconstruction and Generation](https://arxiv.org/pdf/2603.16373) (Mar 17, 2026. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.16373)
@@ -683,6 +730,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![Star](https://img.shields.io/github/stars/lucidrains/vector-quantize-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/vector-quantize-pytorch)
 
 ### Hybrid
+
++ [VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders](https://arxiv.org/pdf/2607.14088) (Jul 15, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.14088)
+  [![Star](https://img.shields.io/github/stars/zhxie0117/VideoRAE.svg?style=social&label=Star)](https://github.com/zhxie0117/VideoRAE)
 
 + [MergeTok: Unified Continuous and Discrete Visual Tokenization via Token Merging](https://arxiv.org/pdf/2605.30904) (May 29, 2026. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.30904)
