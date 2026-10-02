@@ -560,6 +560,9 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [EvoTok: A Unified Image Tokenizer via Residual Latent Evolution for Visual Understanding and Generation](https://arxiv.org/pdf/2603.12108) (Mar 12, 2026. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.12108)
 
++ [TrajTok: Learning Trajectory Tokens enables better Video Understanding](https://arxiv.org/pdf/2602.22779) (Feb 26, 2026. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.22779)
+
 + [Communication-Inspired Tokenization for Structured Image Representations](https://arxiv.org/pdf/2602.20731) (Feb 24, 2026. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.20731)
 
@@ -667,6 +670,9 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Images are Worth Variable Length of Representations](https://arxiv.org/pdf/2506.03643) (Jun 4, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.03643)
   [![Star](https://img.shields.io/github/stars/mao1207/DOVE.svg?style=social&label=Star)](https://github.com/mao1207/DOVE)
+
++ [One Trajectory, One Token: Grounded Video Tokenization via Panoptic Sub-object Trajectory](https://arxiv.org/pdf/2505.23617) (May 29, 2025. arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.23617)
 
 + [Learning Adaptive and Temporally Causal Video Tokenization in a 1D Latent Space](https://arxiv.org/pdf/2505.17011) (May 22, 2025. arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.17011)
